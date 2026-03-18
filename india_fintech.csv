@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,state,district,user_id,gender,age_group,bank_name,account_type,transaction_type,payment_method,upi_app,amount,merchant_category,is_government_payment,scheme_name,failure_status,device_type,internet_type
+T0001,2025-01-29,Maharashtra,Mumbai,U1000,Male,35-44,PNB,Current,P2P,UPI,Paytm,2475,Bills,Yes,PMJDY,Failed,Mobile,5G
+T0002,2025-02-21,Maharashtra,Ahmedabad,U1001,Female,45+,ICICI,Savings,BillPay,UPI,PhonePe,6994,Food,Yes,Subsidy,Failed,Mobile,3G
+T0003,2025-01-06,Maharashtra,Mumbai,U1002,Female,35-44,Axis,JanDhan,BillPay,UPI,BHIM,1503,Transfer,No,Subsidy,Success,Desktop,4G
+T0004,2025-01-24,Rajasthan,Bangalore,U1003,Female,35-44,PNB,Current,P2P,UPI,PhonePe,8096,Electronics,No,NULL,Failed,Mobile,4G
+T0005,2025-03-28,Delhi,Chennai,U1004,Male,45+,HDFC,Current,P2P,UPI,PhonePe,8677,Food,No,NULL,Failed,Mobile,3G
+T0006,2025-02-06,Bihar,Ahmedabad,U1005,Female,35-44,ICICI,Current,P2P,UPI,BHIM,1754,Electronics,Yes,PMJDY,Success,Mobile,Broadband
+T0007,2025-03-14,Tamil Nadu,Patna,U1006,Female,25-34,ICICI,JanDhan,P2M,UPI,GPay,9529,Bills,Yes,PMJDY,Success,Mobile,4G
+T0008,2025-02-20,Delhi,Kolkata,U1007,Female,25-34,PNB,JanDhan,BillPay,UPI,Paytm,3291,Food,Yes,NULL,Success,Desktop,3G
+T0009,2025-02-23,Rajasthan,Patna,U1008,Female,18-24,Axis,Current,BillPay,UPI,GPay,6489,Bills,No,PMJDY,Success,Desktop,3G
+T0010,2025-02-07,Tamil Nadu,Jaipur,U1009,Male,45+,SBI,JanDhan,P2M,UPI,BHIM,6631,Electronics,No,Subsidy,Failed,Mobile,4G
+T0011,2025-03-17,Maharashtra,Mumbai,U1010,Female,45+,Axis,JanDhan,P2P,UPI,GPay,4676,Food,Yes,Subsidy,Success,Desktop,Broadband
+T0012,2025-03-06,Bihar,Kolkata,U1011,Male,18-24,ICICI,JanDhan,P2M,UPI,PhonePe,2122,Transfer,No,PMJDY,Failed,Desktop,4G
+T0013,2025-01-25,Rajasthan,Jaipur,U1012,Male,35-44,Axis,Current,P2P,UPI,PhonePe,3934,Food,No,PMJDY,Failed,Desktop,4G
+T0014,2025-02-24,Gujarat,Bangalore,U1013,Male,18-24,SBI,Savings,BillPay,UPI,Paytm,5025,Transfer,No,PMJDY,Failed,Desktop,Broadband
+T0015,2025-03-06,Rajasthan,Jaipur,U1014,Female,18-24,ICICI,Savings,BillPay,UPI,BHIM,1097,Food,No,NULL,Success,Desktop,Broadband
+T0016,2025-02-13,Tamil Nadu,Chennai,U1015,Female,45+,HDFC,Current,BillPay,UPI,BHIM,8056,Transfer,Yes,PMJDY,Success,Desktop,5G
+T0017,2025-02-18,Rajasthan,Delhi,U1016,Female,18-24,ICICI,JanDhan,P2M,UPI,PhonePe,1296,Food,Yes,NULL,Success,Mobile,5G
+T0018,2025-01-29,Karnataka,Jaipur,U1017,Male,25-34,HDFC,JanDhan,BillPay,UPI,Paytm,7743,Electronics,No,Subsidy,Success,Mobile,4G
+T0019,2025-02-21,Gujarat,Delhi,U1018,Male,45+,PNB,JanDhan,P2M,UPI,Paytm,4444,Shopping,Yes,PMJDY,Success,Desktop,3G
+T0020,2025-03-14,Rajasthan,Kolkata,U1019,Male,45+,Axis,Current,P2P,UPI,PhonePe,3119,Food,Yes,Subsidy,Success,Desktop,3G
+T0021,2025-02-23,Delhi,Ahmedabad,U1020,Female,45+,SBI,Savings,BillPay,UPI,Paytm,3987,Transfer,No,NULL,Success,Desktop,5G
+T0022,2025-03-09,Maharashtra,Ahmedabad,U1021,Male,45+,HDFC,Current,BillPay,UPI,PhonePe,8725,Electronics,Yes,NULL,Success,Desktop,4G
+T0023,2025-02-27,Tamil Nadu,Kolkata,U1022,Male,45+,PNB,Current,P2M,UPI,GPay,2849,Food,Yes,Subsidy,Failed,Desktop,4G
+T0024,2025-02-22,Bihar,Delhi,U1023,Male,45+,PNB,Current,BillPay,UPI,Paytm,5525,Electronics,Yes,PMJDY,Success,Mobile,5G
+T0025,2025-02-10,Delhi,Delhi,U1024,Female,35-44,PNB,Savings,P2P,UPI,GPay,951,Electronics,Yes,NULL,Success,Desktop,3G
+T0026,2025-01-14,West Bengal,Kolkata,U1025,Male,18-24,ICICI,Current,P2P,UPI,Paytm,3977,Shopping,No,NULL,Failed,Desktop,4G
+T0027,2025-02-04,West Bengal,Kolkata,U1026,Female,45+,PNB,JanDhan,BillPay,UPI,BHIM,8567,Transfer,No,PMJDY,Success,Desktop,5G
+T0028,2025-03-21,Delhi,Patna,U1027,Female,35-44,PNB,Current,P2P,UPI,BHIM,1171,Bills,Yes,NULL,Success,Mobile,3G
+T0029,2025-03-10,Gujarat,Delhi,U1028,Male,18-24,PNB,Savings,P2P,UPI,GPay,568,Bills,No,PMJDY,Success,Mobile,4G
+T0030,2025-01-04,Gujarat,Ahmedabad,U1029,Male,45+,ICICI,Current,BillPay,UPI,PhonePe,2327,Bills,Yes,PMJDY,Failed,Desktop,4G
+T0031,2025-03-17,Karnataka,Ahmedabad,U1030,Male,35-44,PNB,JanDhan,BillPay,UPI,PhonePe,6906,Bills,No,PMJDY,Failed,Mobile,Broadband
+T0032,2025-01-02,Maharashtra,Mumbai,U1031,Male,25-34,ICICI,JanDhan,P2M,UPI,PhonePe,2083,Transfer,No,NULL,Failed,Mobile,4G
+T0033,2025-01-27,Rajasthan,Mumbai,U1032,Female,35-44,Axis,Current,P2P,UPI,BHIM,6924,Transfer,Yes,PMJDY,Failed,Mobile,5G
+T0034,2025-03-14,Maharashtra,Patna,U1033,Female,45+,ICICI,JanDhan,BillPay,UPI,Paytm,1769,Electronics,No,NULL,Success,Desktop,5G
+T0035,2025-01-10,Gujarat,Ahmedabad,U1034,Male,35-44,SBI,Savings,BillPay,UPI,PhonePe,6326,Food,No,PMJDY,Success,Desktop,5G
+T0036,2025-02-02,West Bengal,Mumbai,U1035,Female,18-24,HDFC,Current,P2M,UPI,PhonePe,9648,Electronics,No,PMJDY,Success,Mobile,Broadband
+T0037,2025-03-28,Tamil Nadu,Patna,U1036,Male,25-34,HDFC,Savings,P2M,UPI,BHIM,1217,Shopping,Yes,NULL,Failed,Mobile,3G
+T0038,2025-03-30,Bihar,Kolkata,U1037,Female,35-44,SBI,Savings,P2P,UPI,Paytm,1070,Bills,Yes,PMJDY,Success,Mobile,5G
+T0039,2025-02-10,Maharashtra,Mumbai,U1038,Male,25-34,Axis,Current,P2M,UPI,GPay,6376,Electronics,Yes,PMJDY,Failed,Desktop,5G
+T0040,2025-03-28,Rajasthan,Mumbai,U1039,Male,45+,PNB,JanDhan,P2M,UPI,BHIM,1413,Transfer,No,NULL,Failed,Desktop,4G
+T0041,2025-03-30,Delhi,Kolkata,U1040,Male,45+,PNB,JanDhan,P2M,UPI,GPay,9100,Food,No,Subsidy,Failed,Mobile,4G
+T0042,2025-03-26,West Bengal,Mumbai,U1041,Male,18-24,Axis,Current,BillPay,UPI,Paytm,2786,Shopping,No,NULL,Failed,Mobile,3G
+T0043,2025-01-19,West Bengal,Delhi,U1042,Male,35-44,PNB,Current,BillPay,UPI,GPay,6488,Food,No,NULL,Success,Mobile,4G
+T0044,2025-03-03,West Bengal,Mumbai,U1043,Male,18-24,Axis,Current,P2M,UPI,BHIM,123,Shopping,No,NULL,Success,Desktop,Broadband
+T0045,2025-03-14,Karnataka,Jaipur,U1044,Female,18-24,Axis,Current,BillPay,UPI,Paytm,9603,Transfer,No,PMJDY,Success,Desktop,Broadband
+T0046,2025-01-02,Delhi,Kolkata,U1045,Male,18-24,Axis,Savings,P2M,UPI,PhonePe,6057,Shopping,Yes,Subsidy,Failed,Desktop,5G
+T0047,2025-03-17,Bihar,Chennai,U1046,Male,35-44,SBI,Current,BillPay,UPI,PhonePe,9039,Food,Yes,NULL,Success,Mobile,Broadband
+T0048,2025-01-11,Gujarat,Kolkata,U1047,Female,18-24,PNB,JanDhan,P2P,UPI,GPay,2480,Food,Yes,PMJDY,Failed,Mobile,3G
+T0049,2025-03-03,Rajasthan,Bangalore,U1048,Female,45+,SBI,Savings,BillPay,UPI,BHIM,3275,Electronics,No,NULL,Failed,Desktop,Broadband
+T0050,2025-02-05,Maharashtra,Jaipur,U1049,Male,35-44,Axis,Savings,P2M,UPI,Paytm,993,Electronics,No,PMJDY,Failed,Desktop,4G
+T0051,2025-03-11,West Bengal,Ahmedabad,U1050,Male,25-34,SBI,Current,BillPay,UPI,PhonePe,9403,Bills,Yes,NULL,Failed,Mobile,3G
+T0052,2025-01-26,Gujarat,Ahmedabad,U1051,Male,45+,HDFC,Savings,BillPay,UPI,Paytm,3622,Food,Yes,Subsidy,Success,Mobile,4G
+T0053,2025-02-24,Gujarat,Kolkata,U1052,Female,18-24,Axis,Current,BillPay,UPI,GPay,2337,Electronics,Yes,Subsidy,Failed,Mobile,Broadband
+T0054,2025-01-17,Rajasthan,Jaipur,U1053,Male,45+,HDFC,Current,P2M,UPI,PhonePe,2720,Electronics,Yes,Subsidy,Success,Mobile,5G
+T0055,2025-03-09,Bihar,Bangalore,U1054,Male,45+,SBI,Savings,BillPay,UPI,BHIM,4679,Electronics,Yes,Subsidy,Success,Desktop,4G
+T0056,2025-02-23,Karnataka,Bangalore,U1055,Male,35-44,SBI,JanDhan,P2M,UPI,PhonePe,6892,Bills,No,Subsidy,Failed,Desktop,Broadband
+T0057,2025-02-24,Maharashtra,Kolkata,U1056,Female,35-44,HDFC,Current,BillPay,UPI,PhonePe,7505,Bills,Yes,Subsidy,Success,Desktop,Broadband
+T0058,2025-01-28,West Bengal,Chennai,U1057,Male,25-34,SBI,JanDhan,P2P,UPI,Paytm,1484,Food,No,PMJDY,Failed,Mobile,Broadband
+T0059,2025-03-13,West Bengal,Bangalore,U1058,Male,45+,SBI,JanDhan,BillPay,UPI,PhonePe,4773,Bills,Yes,NULL,Success,Mobile,5G
+T0060,2025-03-03,Bihar,Delhi,U1059,Male,18-24,Axis,Savings,P2M,UPI,BHIM,2863,Electronics,Yes,Subsidy,Success,Desktop,4G
+T0061,2025-02-10,Rajasthan,Jaipur,U1060,Female,25-34,SBI,Current,P2M,UPI,PhonePe,3323,Transfer,No,NULL,Failed,Mobile,4G
+T0062,2025-01-09,Maharashtra,Kolkata,U1061,Male,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,8068,Electronics,Yes,NULL,Success,Mobile,3G
+T0063,2025-01-27,Delhi,Chennai,U1062,Female,45+,Axis,JanDhan,P2M,UPI,Paytm,6853,Food,No,PMJDY,Success,Mobile,Broadband
+T0064,2025-01-09,Karnataka,Patna,U1063,Female,25-34,SBI,Current,BillPay,UPI,PhonePe,9118,Electronics,Yes,Subsidy,Failed,Desktop,3G
+T0065,2025-01-26,Maharashtra,Bangalore,U1064,Female,25-34,SBI,JanDhan,BillPay,UPI,GPay,9395,Bills,Yes,Subsidy,Success,Desktop,5G
+T0066,2025-03-16,Maharashtra,Bangalore,U1065,Female,25-34,SBI,JanDhan,P2P,UPI,Paytm,2641,Transfer,Yes,NULL,Success,Desktop,3G
+T0067,2025-01-12,West Bengal,Kolkata,U1066,Male,45+,HDFC,Current,P2P,UPI,Paytm,9700,Shopping,Yes,PMJDY,Success,Mobile,3G
+T0068,2025-03-03,Tamil Nadu,Bangalore,U1067,Male,18-24,HDFC,Savings,P2M,UPI,BHIM,6241,Electronics,Yes,Subsidy,Failed,Mobile,Broadband
+T0069,2025-03-31,Maharashtra,Patna,U1068,Female,35-44,Axis,Current,P2M,UPI,PhonePe,4427,Bills,No,NULL,Success,Desktop,4G
+T0070,2025-03-05,Gujarat,Kolkata,U1069,Female,25-34,HDFC,JanDhan,BillPay,UPI,PhonePe,1359,Shopping,No,Subsidy,Success,Desktop,5G
+T0071,2025-03-28,Maharashtra,Patna,U1070,Male,18-24,SBI,Current,P2P,UPI,Paytm,9705,Shopping,No,PMJDY,Success,Desktop,3G
+T0072,2025-01-11,Tamil Nadu,Mumbai,U1071,Male,45+,SBI,Savings,BillPay,UPI,PhonePe,3991,Shopping,Yes,PMJDY,Failed,Desktop,4G
+T0073,2025-03-22,Gujarat,Ahmedabad,U1072,Male,35-44,ICICI,JanDhan,P2M,UPI,PhonePe,5076,Shopping,No,NULL,Success,Desktop,4G
+T0074,2025-01-04,West Bengal,Mumbai,U1073,Female,25-34,PNB,Savings,P2P,UPI,Paytm,8605,Food,No,PMJDY,Success,Mobile,5G
+T0075,2025-01-30,Karnataka,Bangalore,U1074,Female,18-24,Axis,Current,BillPay,UPI,PhonePe,5093,Bills,Yes,PMJDY,Success,Mobile,3G
+T0076,2025-03-21,Gujarat,Kolkata,U1075,Male,45+,ICICI,JanDhan,P2M,UPI,Paytm,4892,Transfer,Yes,Subsidy,Failed,Mobile,5G
+T0077,2025-03-23,West Bengal,Kolkata,U1076,Male,35-44,HDFC,JanDhan,BillPay,UPI,GPay,828,Food,No,Subsidy,Success,Desktop,4G
+T0078,2025-03-02,Gujarat,Chennai,U1077,Male,45+,SBI,Savings,P2P,UPI,Paytm,9599,Food,Yes,PMJDY,Success,Desktop,5G
+T0079,2025-01-10,Maharashtra,Ahmedabad,U1078,Male,35-44,PNB,Savings,P2M,UPI,BHIM,501,Food,No,Subsidy,Failed,Mobile,3G
+T0080,2025-03-22,Maharashtra,Ahmedabad,U1079,Female,18-24,ICICI,Current,P2P,UPI,Paytm,3355,Bills,Yes,NULL,Failed,Desktop,3G
+T0081,2025-02-03,Rajasthan,Kolkata,U1080,Male,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,7854,Food,Yes,Subsidy,Failed,Mobile,4G
+T0082,2025-02-18,Gujarat,Kolkata,U1081,Male,25-34,ICICI,Savings,BillPay,UPI,GPay,5705,Food,No,PMJDY,Failed,Mobile,3G
+T0083,2025-01-31,Bihar,Chennai,U1082,Male,35-44,ICICI,JanDhan,P2P,UPI,PhonePe,8456,Transfer,No,NULL,Success,Mobile,5G
+T0084,2025-01-23,West Bengal,Kolkata,U1083,Male,45+,ICICI,Current,P2M,UPI,PhonePe,677,Shopping,Yes,PMJDY,Failed,Desktop,4G
+T0085,2025-02-19,Maharashtra,Ahmedabad,U1084,Female,25-34,HDFC,Savings,P2P,UPI,Paytm,3670,Food,No,Subsidy,Failed,Mobile,4G
+T0086,2025-02-22,West Bengal,Jaipur,U1085,Female,35-44,SBI,Current,P2P,UPI,BHIM,7515,Electronics,No,NULL,Failed,Desktop,4G
+T0087,2025-02-02,Delhi,Patna,U1086,Male,25-34,Axis,Current,P2M,UPI,Paytm,6465,Shopping,No,Subsidy,Failed,Mobile,Broadband
+T0088,2025-02-10,Maharashtra,Kolkata,U1087,Female,18-24,PNB,Savings,P2P,UPI,BHIM,3922,Shopping,Yes,NULL,Failed,Desktop,Broadband
+T0089,2025-02-05,Rajasthan,Jaipur,U1088,Female,25-34,PNB,Savings,P2P,UPI,BHIM,2090,Electronics,No,NULL,Success,Mobile,Broadband
+T0090,2025-03-10,West Bengal,Delhi,U1089,Female,18-24,PNB,JanDhan,BillPay,UPI,Paytm,8150,Food,Yes,NULL,Success,Mobile,5G
+T0091,2025-02-28,Rajasthan,Delhi,U1090,Male,25-34,SBI,Savings,BillPay,UPI,Paytm,5197,Bills,Yes,PMJDY,Success,Mobile,3G
+T0092,2025-03-26,Tamil Nadu,Bangalore,U1091,Male,35-44,PNB,Current,P2P,UPI,GPay,4266,Bills,No,NULL,Success,Desktop,3G
+T0093,2025-03-21,Delhi,Chennai,U1092,Female,45+,SBI,Savings,BillPay,UPI,PhonePe,3925,Bills,Yes,NULL,Success,Mobile,5G
+T0094,2025-01-16,Karnataka,Mumbai,U1093,Male,25-34,HDFC,JanDhan,BillPay,UPI,BHIM,6560,Electronics,Yes,NULL,Failed,Mobile,Broadband
+T0095,2025-02-03,Delhi,Patna,U1094,Male,18-24,SBI,Current,BillPay,UPI,Paytm,1109,Transfer,Yes,Subsidy,Success,Mobile,Broadband
+T0096,2025-01-29,West Bengal,Bangalore,U1095,Male,18-24,Axis,JanDhan,P2P,UPI,PhonePe,877,Shopping,Yes,Subsidy,Success,Mobile,5G
+T0097,2025-02-16,West Bengal,Patna,U1096,Male,25-34,Axis,JanDhan,P2P,UPI,PhonePe,5526,Transfer,No,Subsidy,Failed,Desktop,3G
+T0098,2025-03-29,Tamil Nadu,Mumbai,U1097,Female,25-34,SBI,JanDhan,P2M,UPI,GPay,3197,Transfer,No,NULL,Failed,Mobile,3G
+T0099,2025-01-30,Maharashtra,Delhi,U1098,Female,35-44,ICICI,JanDhan,BillPay,UPI,PhonePe,9741,Food,No,NULL,Failed,Mobile,5G
+T0100,2025-03-29,Bihar,Delhi,U1099,Female,18-24,ICICI,Current,P2M,UPI,PhonePe,2248,Bills,No,Subsidy,Failed,Desktop,3G
+T0101,2025-01-29,Rajasthan,Delhi,U1100,Female,25-34,Axis,JanDhan,P2P,UPI,GPay,4291,Bills,No,Subsidy,Success,Desktop,5G
+T0102,2025-02-02,Tamil Nadu,Bangalore,U1101,Male,18-24,PNB,Savings,BillPay,UPI,BHIM,9134,Electronics,No,PMJDY,Success,Desktop,5G
+T0103,2025-01-08,Tamil Nadu,Bangalore,U1102,Female,45+,PNB,Current,P2P,UPI,Paytm,3740,Bills,Yes,NULL,Success,Mobile,5G
+T0104,2025-01-20,Gujarat,Chennai,U1103,Female,18-24,ICICI,JanDhan,BillPay,UPI,PhonePe,7095,Electronics,No,Subsidy,Success,Desktop,4G
+T0105,2025-04-01,Bihar,Bangalore,U1104,Male,45+,HDFC,Savings,BillPay,UPI,PhonePe,3156,Food,No,Subsidy,Failed,Desktop,Broadband
+T0106,2025-02-04,Tamil Nadu,Kolkata,U1105,Female,18-24,Axis,Current,P2M,UPI,Paytm,9695,Shopping,Yes,NULL,Success,Mobile,5G
+T0107,2025-03-06,Gujarat,Patna,U1106,Male,25-34,PNB,JanDhan,BillPay,UPI,GPay,302,Transfer,Yes,NULL,Success,Desktop,3G
+T0108,2025-03-15,Maharashtra,Mumbai,U1107,Male,18-24,ICICI,Savings,P2M,UPI,PhonePe,9483,Food,Yes,Subsidy,Success,Desktop,Broadband
+T0109,2025-03-16,Rajasthan,Delhi,U1108,Male,18-24,ICICI,Current,P2P,UPI,BHIM,8932,Food,No,NULL,Failed,Desktop,4G
+T0110,2025-02-12,Gujarat,Ahmedabad,U1109,Female,35-44,SBI,Savings,P2M,UPI,BHIM,5833,Food,No,PMJDY,Failed,Mobile,5G
+T0111,2025-03-16,Tamil Nadu,Kolkata,U1110,Female,35-44,SBI,Current,P2P,UPI,GPay,5858,Bills,Yes,NULL,Success,Mobile,5G
+T0112,2025-03-15,West Bengal,Mumbai,U1111,Male,45+,Axis,Savings,BillPay,UPI,BHIM,8780,Bills,No,NULL,Failed,Mobile,Broadband
+T0113,2025-03-05,Delhi,Bangalore,U1112,Female,35-44,HDFC,Current,P2M,UPI,GPay,3988,Food,Yes,NULL,Success,Mobile,5G
+T0114,2025-02-13,Karnataka,Ahmedabad,U1113,Male,18-24,ICICI,JanDhan,BillPay,UPI,PhonePe,3432,Electronics,Yes,PMJDY,Success,Mobile,5G
+T0115,2025-02-12,Tamil Nadu,Patna,U1114,Female,45+,SBI,Current,BillPay,UPI,BHIM,6047,Bills,Yes,Subsidy,Success,Mobile,Broadband
+T0116,2025-02-09,Rajasthan,Mumbai,U1115,Female,18-24,Axis,Savings,BillPay,UPI,PhonePe,8825,Bills,No,Subsidy,Failed,Desktop,5G
+T0117,2025-01-25,West Bengal,Chennai,U1116,Male,35-44,SBI,Savings,P2P,UPI,Paytm,1914,Shopping,No,PMJDY,Success,Mobile,Broadband
+T0118,2025-02-28,Rajasthan,Bangalore,U1117,Female,25-34,Axis,JanDhan,P2P,UPI,Paytm,65,Food,Yes,PMJDY,Failed,Desktop,5G
+T0119,2025-01-31,Karnataka,Chennai,U1118,Female,35-44,ICICI,JanDhan,P2M,UPI,Paytm,6071,Electronics,No,NULL,Failed,Desktop,3G
+T0120,2025-01-22,Gujarat,Mumbai,U1119,Female,25-34,ICICI,Savings,P2M,UPI,BHIM,556,Food,No,NULL,Failed,Mobile,Broadband
+T0121,2025-03-15,Maharashtra,Delhi,U1120,Female,18-24,HDFC,Savings,BillPay,UPI,BHIM,6285,Food,Yes,NULL,Success,Desktop,4G
+T0122,2025-03-23,Delhi,Jaipur,U1121,Male,35-44,Axis,Current,P2P,UPI,PhonePe,7868,Food,Yes,PMJDY,Success,Desktop,5G
+T0123,2025-02-27,Gujarat,Mumbai,U1122,Female,45+,ICICI,JanDhan,P2M,UPI,GPay,7431,Transfer,No,PMJDY,Failed,Mobile,3G
+T0124,2025-02-20,Maharashtra,Patna,U1123,Male,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,3291,Bills,Yes,Subsidy,Success,Mobile,5G
+T0125,2025-02-22,Karnataka,Patna,U1124,Female,18-24,PNB,JanDhan,P2P,UPI,PhonePe,4724,Shopping,No,NULL,Failed,Desktop,5G
+T0126,2025-01-24,Maharashtra,Patna,U1125,Male,35-44,ICICI,Savings,BillPay,UPI,BHIM,1958,Electronics,No,NULL,Success,Mobile,5G
+T0127,2025-03-18,West Bengal,Patna,U1126,Female,35-44,PNB,Current,BillPay,UPI,GPay,8796,Transfer,No,PMJDY,Failed,Mobile,5G
+T0128,2025-02-06,Tamil Nadu,Patna,U1127,Female,45+,HDFC,Savings,P2P,UPI,Paytm,5926,Shopping,No,Subsidy,Failed,Mobile,4G
+T0129,2025-02-22,Maharashtra,Chennai,U1128,Female,45+,PNB,Savings,P2P,UPI,Paytm,5824,Transfer,No,NULL,Failed,Mobile,5G
+T0130,2025-01-03,West Bengal,Bangalore,U1129,Male,18-24,Axis,JanDhan,P2M,UPI,PhonePe,302,Shopping,Yes,Subsidy,Failed,Desktop,4G
+T0131,2025-03-28,Delhi,Patna,U1130,Male,35-44,HDFC,JanDhan,BillPay,UPI,PhonePe,7194,Bills,Yes,NULL,Success,Mobile,Broadband
+T0132,2025-03-28,Bihar,Kolkata,U1131,Male,25-34,ICICI,JanDhan,P2P,UPI,Paytm,5530,Electronics,No,PMJDY,Success,Mobile,5G
+T0133,2025-01-05,Tamil Nadu,Jaipur,U1132,Male,45+,HDFC,Savings,P2P,UPI,GPay,7985,Bills,Yes,NULL,Failed,Desktop,3G
+T0134,2025-01-04,Delhi,Mumbai,U1133,Female,45+,SBI,Current,P2M,UPI,GPay,4194,Shopping,Yes,Subsidy,Success,Mobile,3G
+T0135,2025-01-13,Rajasthan,Jaipur,U1134,Male,25-34,Axis,Current,BillPay,UPI,BHIM,2523,Shopping,No,NULL,Failed,Mobile,Broadband
+T0136,2025-03-17,Tamil Nadu,Chennai,U1135,Female,35-44,SBI,Current,P2M,UPI,BHIM,2573,Food,Yes,NULL,Success,Desktop,4G
+T0137,2025-01-24,Delhi,Patna,U1136,Female,18-24,Axis,Current,P2P,UPI,BHIM,6017,Bills,No,NULL,Failed,Desktop,5G
+T0138,2025-02-11,West Bengal,Kolkata,U1137,Female,25-34,HDFC,Savings,BillPay,UPI,PhonePe,7155,Electronics,Yes,Subsidy,Success,Desktop,5G
+T0139,2025-02-17,West Bengal,Delhi,U1138,Male,45+,ICICI,Savings,BillPay,UPI,PhonePe,948,Transfer,No,Subsidy,Success,Desktop,4G
+T0140,2025-03-01,Rajasthan,Delhi,U1139,Male,35-44,PNB,JanDhan,P2M,UPI,Paytm,7912,Bills,No,NULL,Failed,Mobile,4G
+T0141,2025-03-17,Delhi,Mumbai,U1140,Male,18-24,PNB,Current,P2M,UPI,Paytm,7702,Food,No,NULL,Failed,Desktop,5G
+T0142,2025-03-12,West Bengal,Delhi,U1141,Male,18-24,Axis,Current,P2M,UPI,BHIM,7963,Transfer,No,Subsidy,Failed,Desktop,5G
+T0143,2025-03-22,Bihar,Kolkata,U1142,Male,35-44,Axis,Current,BillPay,UPI,BHIM,6210,Shopping,Yes,Subsidy,Success,Mobile,4G
+T0144,2025-02-04,Maharashtra,Ahmedabad,U1143,Male,35-44,SBI,Current,P2P,UPI,BHIM,579,Electronics,Yes,Subsidy,Failed,Mobile,Broadband
+T0145,2025-03-25,Bihar,Chennai,U1144,Female,45+,HDFC,Savings,BillPay,UPI,BHIM,7875,Shopping,Yes,Subsidy,Failed,Desktop,3G
+T0146,2025-01-25,Tamil Nadu,Mumbai,U1145,Male,18-24,Axis,Savings,P2P,UPI,BHIM,9197,Food,No,Subsidy,Success,Mobile,3G
+T0147,2025-01-22,West Bengal,Ahmedabad,U1146,Male,45+,HDFC,Savings,BillPay,UPI,GPay,517,Transfer,No,Subsidy,Failed,Mobile,Broadband
+T0148,2025-01-01,Karnataka,Mumbai,U1147,Male,18-24,PNB,Savings,P2P,UPI,GPay,1274,Transfer,Yes,Subsidy,Success,Mobile,4G
+T0149,2025-03-01,Delhi,Jaipur,U1148,Male,18-24,HDFC,JanDhan,BillPay,UPI,GPay,3160,Shopping,No,NULL,Failed,Mobile,Broadband
+T0150,2025-03-14,Bihar,Ahmedabad,U1149,Male,25-34,HDFC,JanDhan,P2M,UPI,Paytm,9618,Electronics,No,NULL,Success,Desktop,5G
+T0151,2025-01-02,Delhi,Chennai,U1150,Male,18-24,Axis,JanDhan,P2P,UPI,GPay,5723,Food,No,PMJDY,Failed,Desktop,4G
+T0152,2025-02-12,Delhi,Mumbai,U1151,Male,18-24,HDFC,Current,P2P,UPI,GPay,1649,Food,Yes,NULL,Failed,Desktop,4G
+T0153,2025-03-01,West Bengal,Kolkata,U1152,Female,25-34,PNB,Savings,P2P,UPI,BHIM,8729,Shopping,No,Subsidy,Failed,Mobile,5G
+T0154,2025-02-16,Maharashtra,Delhi,U1153,Male,45+,ICICI,Savings,P2P,UPI,BHIM,6620,Bills,Yes,Subsidy,Success,Desktop,4G
+T0155,2025-01-12,Gujarat,Patna,U1154,Male,45+,Axis,JanDhan,P2P,UPI,Paytm,9316,Shopping,No,NULL,Success,Desktop,Broadband
+T0156,2025-01-12,Bihar,Chennai,U1155,Male,25-34,HDFC,Current,BillPay,UPI,PhonePe,7894,Shopping,Yes,Subsidy,Failed,Mobile,4G
+T0157,2025-03-31,West Bengal,Kolkata,U1156,Female,18-24,PNB,Current,P2P,UPI,Paytm,121,Electronics,Yes,NULL,Failed,Desktop,5G
+T0158,2025-03-03,Bihar,Mumbai,U1157,Female,45+,ICICI,Savings,BillPay,UPI,Paytm,5582,Bills,Yes,PMJDY,Failed,Mobile,Broadband
+T0159,2025-03-28,Maharashtra,Chennai,U1158,Female,25-34,Axis,Current,BillPay,UPI,Paytm,5190,Bills,Yes,Subsidy,Failed,Mobile,4G
+T0160,2025-01-10,West Bengal,Mumbai,U1159,Male,18-24,SBI,Savings,P2M,UPI,GPay,1136,Food,Yes,PMJDY,Success,Mobile,5G
+T0161,2025-03-27,Rajasthan,Delhi,U1160,Female,25-34,Axis,JanDhan,BillPay,UPI,GPay,1833,Transfer,Yes,Subsidy,Success,Mobile,Broadband
+T0162,2025-01-17,Gujarat,Ahmedabad,U1161,Female,25-34,SBI,JanDhan,BillPay,UPI,PhonePe,6832,Bills,Yes,Subsidy,Failed,Desktop,5G
+T0163,2025-01-14,Bihar,Patna,U1162,Male,25-34,PNB,JanDhan,P2M,UPI,GPay,4915,Electronics,No,NULL,Failed,Mobile,3G
+T0164,2025-02-01,Bihar,Jaipur,U1163,Male,35-44,ICICI,Savings,P2M,UPI,Paytm,6493,Food,Yes,Subsidy,Failed,Mobile,5G
+T0165,2025-01-20,Bihar,Mumbai,U1164,Female,35-44,PNB,Savings,P2P,UPI,BHIM,5281,Food,No,Subsidy,Failed,Desktop,4G
+T0166,2025-01-31,Bihar,Jaipur,U1165,Male,18-24,SBI,Savings,P2P,UPI,BHIM,7830,Electronics,No,PMJDY,Success,Mobile,Broadband
+T0167,2025-03-02,Gujarat,Mumbai,U1166,Male,18-24,PNB,JanDhan,P2M,UPI,BHIM,7588,Electronics,No,Subsidy,Success,Desktop,3G
+T0168,2025-01-08,Bihar,Jaipur,U1167,Male,45+,PNB,Savings,P2M,UPI,Paytm,6670,Shopping,Yes,Subsidy,Success,Mobile,5G
+T0169,2025-03-05,Delhi,Delhi,U1168,Male,25-34,ICICI,Savings,P2M,UPI,GPay,3208,Bills,Yes,NULL,Failed,Desktop,Broadband
+T0170,2025-02-28,West Bengal,Delhi,U1169,Female,18-24,SBI,JanDhan,P2M,UPI,BHIM,2651,Bills,No,Subsidy,Success,Desktop,5G
+T0171,2025-01-20,Rajasthan,Delhi,U1170,Female,25-34,ICICI,Current,P2M,UPI,GPay,3396,Electronics,No,Subsidy,Failed,Desktop,Broadband
+T0172,2025-03-23,West Bengal,Jaipur,U1171,Female,18-24,Axis,JanDhan,P2M,UPI,Paytm,3222,Shopping,Yes,PMJDY,Failed,Desktop,5G
+T0173,2025-02-08,Gujarat,Bangalore,U1172,Male,18-24,HDFC,Current,P2P,UPI,Paytm,3326,Shopping,Yes,NULL,Success,Desktop,3G
+T0174,2025-02-09,Tamil Nadu,Ahmedabad,U1173,Female,45+,ICICI,Current,P2P,UPI,PhonePe,1408,Shopping,Yes,Subsidy,Success,Mobile,4G
+T0175,2025-02-02,Tamil Nadu,Chennai,U1174,Female,25-34,HDFC,Current,BillPay,UPI,BHIM,4486,Electronics,No,NULL,Success,Mobile,3G
+T0176,2025-03-22,West Bengal,Patna,U1175,Male,45+,SBI,JanDhan,P2M,UPI,BHIM,1081,Electronics,Yes,PMJDY,Success,Mobile,5G
+T0177,2025-03-22,Gujarat,Bangalore,U1176,Male,25-34,HDFC,Savings,BillPay,UPI,GPay,5182,Bills,No,NULL,Failed,Mobile,5G
+T0178,2025-01-21,Maharashtra,Jaipur,U1177,Female,35-44,HDFC,Current,P2M,UPI,GPay,7468,Transfer,Yes,NULL,Success,Desktop,3G
+T0179,2025-01-19,Delhi,Kolkata,U1178,Female,35-44,PNB,Savings,P2M,UPI,PhonePe,9058,Shopping,Yes,PMJDY,Failed,Desktop,3G
+T0180,2025-02-16,Gujarat,Ahmedabad,U1179,Female,18-24,ICICI,Savings,BillPay,UPI,PhonePe,473,Food,Yes,Subsidy,Success,Mobile,3G
+T0181,2025-03-18,Tamil Nadu,Chennai,U1180,Female,35-44,ICICI,Savings,BillPay,UPI,PhonePe,9845,Transfer,No,PMJDY,Failed,Desktop,4G
+T0182,2025-03-12,Tamil Nadu,Bangalore,U1181,Female,18-24,SBI,JanDhan,P2P,UPI,PhonePe,1182,Shopping,No,PMJDY,Failed,Mobile,4G
+T0183,2025-02-04,West Bengal,Chennai,U1182,Female,18-24,ICICI,Current,P2M,UPI,PhonePe,8005,Electronics,Yes,PMJDY,Success,Desktop,3G
+T0184,2025-03-10,West Bengal,Chennai,U1183,Male,25-34,Axis,Current,P2P,UPI,PhonePe,2801,Transfer,Yes,Subsidy,Success,Desktop,5G
+T0185,2025-03-14,Delhi,Delhi,U1184,Female,45+,SBI,JanDhan,BillPay,UPI,PhonePe,4975,Electronics,No,NULL,Failed,Mobile,3G
+T0186,2025-03-16,Gujarat,Chennai,U1185,Female,35-44,SBI,Current,BillPay,UPI,GPay,2471,Food,No,NULL,Failed,Mobile,4G
+T0187,2025-01-09,West Bengal,Jaipur,U1186,Female,45+,PNB,JanDhan,BillPay,UPI,Paytm,2934,Food,Yes,NULL,Failed,Desktop,4G
+T0188,2025-02-02,West Bengal,Kolkata,U1187,Female,45+,SBI,Current,BillPay,UPI,PhonePe,5453,Bills,Yes,PMJDY,Success,Desktop,3G
+T0189,2025-01-10,Karnataka,Jaipur,U1188,Male,35-44,Axis,Savings,P2M,UPI,Paytm,7858,Electronics,No,NULL,Success,Desktop,3G
+T0190,2025-01-26,Karnataka,Bangalore,U1189,Male,25-34,SBI,Current,BillPay,UPI,GPay,8137,Bills,No,NULL,Success,Mobile,3G
+T0191,2025-02-10,Bihar,Jaipur,U1190,Male,18-24,PNB,Savings,P2M,UPI,Paytm,1352,Transfer,Yes,PMJDY,Failed,Desktop,4G
+T0192,2025-02-11,Karnataka,Chennai,U1191,Male,18-24,SBI,JanDhan,BillPay,UPI,Paytm,5407,Shopping,No,Subsidy,Success,Desktop,5G
+T0193,2025-02-16,Delhi,Jaipur,U1192,Male,35-44,Axis,Current,P2P,UPI,GPay,3288,Shopping,No,PMJDY,Success,Mobile,5G
+T0194,2025-01-12,Gujarat,Delhi,U1193,Male,35-44,HDFC,Current,BillPay,UPI,Paytm,5326,Transfer,No,PMJDY,Failed,Desktop,Broadband
+T0195,2025-02-16,Karnataka,Patna,U1194,Female,35-44,PNB,Savings,BillPay,UPI,PhonePe,9324,Electronics,No,NULL,Failed,Mobile,4G
+T0196,2025-03-13,Gujarat,Delhi,U1195,Female,45+,HDFC,Current,P2M,UPI,BHIM,5546,Bills,Yes,PMJDY,Success,Desktop,Broadband
+T0197,2025-01-09,Karnataka,Kolkata,U1196,Male,35-44,ICICI,JanDhan,P2P,UPI,GPay,5919,Food,Yes,PMJDY,Success,Mobile,Broadband
+T0198,2025-02-23,Rajasthan,Delhi,U1197,Female,18-24,PNB,Savings,BillPay,UPI,GPay,9215,Food,Yes,NULL,Failed,Desktop,5G
+T0199,2025-03-10,Bihar,Chennai,U1198,Male,18-24,Axis,JanDhan,P2P,UPI,Paytm,8381,Shopping,Yes,NULL,Failed,Mobile,3G
+T0200,2025-01-15,Maharashtra,Jaipur,U1199,Male,35-44,HDFC,Savings,P2M,UPI,PhonePe,674,Food,No,Subsidy,Success,Mobile,5G
+T0201,2025-02-03,Karnataka,Mumbai,U1200,Male,25-34,ICICI,Current,BillPay,UPI,BHIM,3649,Shopping,No,Subsidy,Failed,Mobile,4G
+T0202,2025-03-02,Bihar,Jaipur,U1201,Male,45+,ICICI,Savings,P2P,UPI,Paytm,879,Transfer,No,PMJDY,Success,Desktop,3G
+T0203,2025-02-03,Tamil Nadu,Jaipur,U1202,Female,45+,Axis,Current,P2P,UPI,PhonePe,5163,Electronics,No,PMJDY,Success,Mobile,3G
+T0204,2025-02-02,Delhi,Delhi,U1203,Female,35-44,SBI,JanDhan,P2M,UPI,GPay,5992,Shopping,No,NULL,Failed,Mobile,5G
+T0205,2025-02-22,Gujarat,Chennai,U1204,Female,18-24,HDFC,Savings,BillPay,UPI,BHIM,8998,Transfer,No,Subsidy,Success,Desktop,4G
+T0206,2025-01-20,Karnataka,Bangalore,U1205,Female,18-24,PNB,Savings,P2P,UPI,Paytm,3472,Transfer,Yes,NULL,Failed,Mobile,3G
+T0207,2025-02-15,Tamil Nadu,Chennai,U1206,Male,18-24,SBI,Savings,P2P,UPI,PhonePe,1723,Electronics,Yes,PMJDY,Failed,Mobile,Broadband
+T0208,2025-01-24,Tamil Nadu,Delhi,U1207,Male,45+,HDFC,Savings,BillPay,UPI,GPay,7475,Transfer,No,Subsidy,Failed,Desktop,4G
+T0209,2025-01-27,Tamil Nadu,Ahmedabad,U1208,Female,18-24,SBI,JanDhan,P2M,UPI,BHIM,9396,Shopping,No,PMJDY,Failed,Desktop,Broadband
+T0210,2025-01-23,Tamil Nadu,Mumbai,U1209,Female,45+,ICICI,Current,BillPay,UPI,PhonePe,2009,Electronics,No,Subsidy,Failed,Mobile,4G
+T0211,2025-03-13,Karnataka,Kolkata,U1210,Male,45+,HDFC,Savings,P2M,UPI,PhonePe,8237,Transfer,No,PMJDY,Success,Desktop,4G
+T0212,2025-03-12,Karnataka,Mumbai,U1211,Female,35-44,Axis,Savings,BillPay,UPI,BHIM,8083,Shopping,No,Subsidy,Failed,Desktop,5G
+T0213,2025-03-16,Karnataka,Mumbai,U1212,Male,35-44,Axis,JanDhan,P2M,UPI,PhonePe,4822,Food,Yes,Subsidy,Failed,Mobile,3G
+T0214,2025-02-09,Gujarat,Delhi,U1213,Female,25-34,Axis,JanDhan,BillPay,UPI,Paytm,118,Transfer,No,PMJDY,Failed,Mobile,5G
+T0215,2025-02-03,Karnataka,Kolkata,U1214,Female,35-44,PNB,JanDhan,BillPay,UPI,Paytm,7124,Transfer,Yes,NULL,Success,Desktop,4G
+T0216,2025-01-12,Bihar,Kolkata,U1215,Female,45+,HDFC,JanDhan,P2M,UPI,BHIM,7910,Bills,Yes,PMJDY,Failed,Desktop,5G
+T0217,2025-01-03,West Bengal,Chennai,U1216,Male,35-44,SBI,JanDhan,BillPay,UPI,PhonePe,3097,Bills,Yes,Subsidy,Failed,Mobile,3G
+T0218,2025-02-25,Tamil Nadu,Delhi,U1217,Male,45+,PNB,Current,BillPay,UPI,PhonePe,5621,Electronics,No,Subsidy,Failed,Mobile,5G
+T0219,2025-01-24,Tamil Nadu,Chennai,U1218,Female,25-34,Axis,Current,P2M,UPI,GPay,3032,Bills,Yes,Subsidy,Failed,Desktop,5G
+T0220,2025-02-24,Rajasthan,Kolkata,U1219,Male,18-24,SBI,JanDhan,P2M,UPI,Paytm,9776,Bills,No,PMJDY,Failed,Mobile,5G
+T0221,2025-01-13,Gujarat,Kolkata,U1220,Female,45+,ICICI,Current,P2M,UPI,BHIM,2377,Transfer,Yes,NULL,Failed,Desktop,5G
+T0222,2025-01-04,Bihar,Jaipur,U1221,Male,25-34,ICICI,Savings,P2M,UPI,GPay,6067,Food,Yes,NULL,Success,Mobile,5G
+T0223,2025-01-06,Gujarat,Jaipur,U1222,Female,18-24,HDFC,Savings,BillPay,UPI,Paytm,7814,Bills,Yes,Subsidy,Failed,Mobile,3G
+T0224,2025-03-12,Rajasthan,Delhi,U1223,Female,35-44,PNB,Current,BillPay,UPI,PhonePe,2118,Electronics,Yes,NULL,Success,Mobile,Broadband
+T0225,2025-03-14,Tamil Nadu,Kolkata,U1224,Male,35-44,Axis,Current,P2M,UPI,BHIM,1901,Transfer,No,PMJDY,Success,Mobile,3G
+T0226,2025-02-20,Bihar,Bangalore,U1225,Female,35-44,PNB,Current,P2P,UPI,PhonePe,7708,Bills,Yes,PMJDY,Success,Mobile,Broadband
+T0227,2025-01-25,Tamil Nadu,Ahmedabad,U1226,Male,45+,ICICI,JanDhan,BillPay,UPI,GPay,9614,Shopping,Yes,PMJDY,Success,Desktop,5G
+T0228,2025-01-10,Gujarat,Mumbai,U1227,Male,35-44,ICICI,Current,P2P,UPI,GPay,8165,Shopping,Yes,NULL,Failed,Desktop,Broadband
+T0229,2025-03-15,Delhi,Mumbai,U1228,Female,18-24,SBI,Current,P2M,UPI,BHIM,3324,Shopping,No,PMJDY,Failed,Desktop,Broadband
+T0230,2025-02-27,Bihar,Patna,U1229,Female,45+,HDFC,Savings,P2P,UPI,BHIM,715,Transfer,Yes,Subsidy,Failed,Mobile,3G
+T0231,2025-03-14,Karnataka,Kolkata,U1230,Female,35-44,Axis,Current,P2M,UPI,Paytm,1518,Shopping,Yes,Subsidy,Success,Desktop,4G
+T0232,2025-03-15,West Bengal,Bangalore,U1231,Male,35-44,ICICI,Savings,P2P,UPI,BHIM,4409,Bills,No,NULL,Failed,Desktop,5G
+T0233,2025-01-17,West Bengal,Delhi,U1232,Female,18-24,HDFC,JanDhan,BillPay,UPI,GPay,8144,Transfer,Yes,NULL,Success,Mobile,Broadband
+T0234,2025-02-26,Rajasthan,Delhi,U1233,Female,25-34,Axis,JanDhan,P2M,UPI,Paytm,7247,Transfer,Yes,PMJDY,Success,Desktop,3G
+T0235,2025-02-09,Bihar,Delhi,U1234,Male,25-34,HDFC,Savings,P2M,UPI,BHIM,8121,Electronics,Yes,PMJDY,Failed,Desktop,Broadband
+T0236,2025-02-15,Maharashtra,Chennai,U1235,Male,18-24,Axis,Savings,P2M,UPI,GPay,4588,Bills,Yes,NULL,Success,Mobile,4G
+T0237,2025-01-31,Gujarat,Jaipur,U1236,Female,45+,Axis,Savings,P2M,UPI,GPay,7947,Food,No,PMJDY,Failed,Desktop,Broadband
+T0238,2025-03-10,Bihar,Delhi,U1237,Female,35-44,SBI,Savings,P2P,UPI,PhonePe,844,Shopping,No,NULL,Failed,Desktop,3G
+T0239,2025-02-20,Karnataka,Mumbai,U1238,Female,45+,HDFC,JanDhan,P2P,UPI,PhonePe,712,Food,Yes,PMJDY,Failed,Mobile,3G
+T0240,2025-03-10,Rajasthan,Kolkata,U1239,Male,18-24,Axis,Savings,P2P,UPI,PhonePe,7104,Bills,Yes,NULL,Success,Desktop,3G
+T0241,2025-03-07,Karnataka,Kolkata,U1240,Male,18-24,ICICI,Savings,P2P,UPI,GPay,6723,Shopping,Yes,PMJDY,Success,Mobile,3G
+T0242,2025-01-22,Tamil Nadu,Chennai,U1241,Female,45+,Axis,JanDhan,BillPay,UPI,PhonePe,1681,Transfer,No,NULL,Failed,Desktop,4G
+T0243,2025-01-02,Bihar,Jaipur,U1242,Male,25-34,Axis,Current,P2M,UPI,PhonePe,3228,Transfer,No,PMJDY,Failed,Desktop,3G
+T0244,2025-01-11,Bihar,Mumbai,U1243,Male,45+,HDFC,Current,BillPay,UPI,Paytm,4355,Food,Yes,PMJDY,Failed,Mobile,Broadband
+T0245,2025-01-05,Tamil Nadu,Delhi,U1244,Female,18-24,Axis,JanDhan,P2P,UPI,PhonePe,5407,Shopping,No,Subsidy,Failed,Mobile,4G
+T0246,2025-02-14,Gujarat,Kolkata,U1245,Female,45+,HDFC,Current,P2M,UPI,BHIM,319,Shopping,No,PMJDY,Failed,Mobile,3G
+T0247,2025-01-08,Rajasthan,Jaipur,U1246,Male,25-34,ICICI,Savings,BillPay,UPI,GPay,5716,Bills,No,PMJDY,Failed,Desktop,5G
+T0248,2025-01-03,Bihar,Chennai,U1247,Male,18-24,PNB,JanDhan,P2M,UPI,BHIM,4876,Electronics,No,NULL,Success,Desktop,Broadband
+T0249,2025-01-14,Maharashtra,Ahmedabad,U1248,Male,18-24,HDFC,Current,BillPay,UPI,BHIM,6034,Shopping,Yes,Subsidy,Success,Mobile,3G
+T0250,2025-02-04,Bihar,Bangalore,U1249,Female,18-24,PNB,Current,P2P,UPI,PhonePe,4389,Shopping,No,NULL,Failed,Mobile,4G
+T0251,2025-03-09,Karnataka,Jaipur,U1250,Male,35-44,HDFC,Savings,P2M,UPI,Paytm,6771,Bills,Yes,NULL,Failed,Desktop,Broadband
+T0252,2025-01-18,Bihar,Delhi,U1251,Female,25-34,HDFC,Savings,P2P,UPI,PhonePe,8128,Shopping,Yes,PMJDY,Failed,Mobile,Broadband
+T0253,2025-03-29,Rajasthan,Kolkata,U1252,Male,18-24,ICICI,JanDhan,P2M,UPI,BHIM,8640,Shopping,No,PMJDY,Success,Desktop,3G
+T0254,2025-02-26,Maharashtra,Ahmedabad,U1253,Female,25-34,ICICI,Current,BillPay,UPI,PhonePe,8312,Bills,Yes,Subsidy,Failed,Desktop,5G
+T0255,2025-03-01,Delhi,Chennai,U1254,Female,25-34,ICICI,Savings,P2P,UPI,GPay,7917,Transfer,No,Subsidy,Success,Mobile,Broadband
+T0256,2025-03-26,Karnataka,Jaipur,U1255,Female,25-34,PNB,Savings,P2P,UPI,BHIM,3351,Bills,No,NULL,Success,Mobile,Broadband
+T0257,2025-03-20,Tamil Nadu,Jaipur,U1256,Male,35-44,ICICI,Savings,BillPay,UPI,PhonePe,1583,Bills,Yes,Subsidy,Success,Mobile,3G
+T0258,2025-02-02,Gujarat,Delhi,U1257,Female,35-44,HDFC,Savings,P2M,UPI,GPay,4066,Electronics,Yes,PMJDY,Success,Desktop,5G
+T0259,2025-02-10,Gujarat,Chennai,U1258,Female,18-24,PNB,Savings,P2P,UPI,GPay,9291,Food,Yes,Subsidy,Failed,Desktop,4G
+T0260,2025-03-22,Delhi,Ahmedabad,U1259,Male,18-24,HDFC,Savings,P2P,UPI,PhonePe,6310,Electronics,No,NULL,Failed,Desktop,5G
+T0261,2025-03-04,Gujarat,Patna,U1260,Female,35-44,SBI,Savings,P2M,UPI,PhonePe,9823,Electronics,No,PMJDY,Success,Desktop,5G
+T0262,2025-01-30,Delhi,Mumbai,U1261,Male,35-44,SBI,JanDhan,P2P,UPI,Paytm,1765,Shopping,Yes,Subsidy,Failed,Desktop,Broadband
+T0263,2025-03-07,Delhi,Bangalore,U1262,Male,25-34,ICICI,JanDhan,BillPay,UPI,BHIM,2028,Electronics,Yes,Subsidy,Success,Desktop,3G
+T0264,2025-03-28,Gujarat,Chennai,U1263,Male,25-34,SBI,Current,P2M,UPI,Paytm,2707,Electronics,Yes,NULL,Failed,Mobile,3G
+T0265,2025-02-19,West Bengal,Bangalore,U1264,Male,45+,HDFC,Current,P2P,UPI,Paytm,4397,Transfer,Yes,NULL,Failed,Mobile,4G
+T0266,2025-02-21,Gujarat,Patna,U1265,Male,45+,Axis,JanDhan,P2M,UPI,BHIM,2901,Electronics,Yes,NULL,Success,Desktop,5G
+T0267,2025-01-25,West Bengal,Chennai,U1266,Male,45+,ICICI,JanDhan,P2P,UPI,BHIM,640,Transfer,No,Subsidy,Success,Desktop,3G
+T0268,2025-01-28,Tamil Nadu,Delhi,U1267,Male,18-24,HDFC,Savings,BillPay,UPI,PhonePe,2627,Transfer,Yes,Subsidy,Success,Desktop,Broadband
+T0269,2025-01-30,Tamil Nadu,Mumbai,U1268,Female,45+,PNB,Savings,P2P,UPI,BHIM,1082,Transfer,Yes,Subsidy,Failed,Mobile,3G
+T0270,2025-03-21,Maharashtra,Delhi,U1269,Female,35-44,PNB,JanDhan,P2M,UPI,GPay,3498,Transfer,Yes,Subsidy,Success,Desktop,Broadband
+T0271,2025-01-10,West Bengal,Kolkata,U1270,Male,35-44,PNB,JanDhan,P2P,UPI,BHIM,1058,Bills,No,PMJDY,Success,Mobile,Broadband
+T0272,2025-03-02,Karnataka,Mumbai,U1271,Male,35-44,SBI,Savings,BillPay,UPI,GPay,7378,Food,Yes,PMJDY,Success,Desktop,4G
+T0273,2025-01-26,Tamil Nadu,Bangalore,U1272,Male,45+,HDFC,Savings,P2M,UPI,BHIM,6235,Electronics,Yes,Subsidy,Failed,Desktop,3G
+T0274,2025-01-18,Karnataka,Mumbai,U1273,Male,35-44,SBI,Current,P2P,UPI,GPay,8988,Electronics,Yes,Subsidy,Failed,Mobile,4G
+T0275,2025-03-11,Maharashtra,Chennai,U1274,Male,35-44,Axis,JanDhan,P2P,UPI,PhonePe,7401,Shopping,No,PMJDY,Success,Mobile,4G
+T0276,2025-02-27,Maharashtra,Mumbai,U1275,Female,35-44,PNB,JanDhan,P2P,UPI,GPay,3010,Transfer,Yes,NULL,Success,Desktop,3G
+T0277,2025-01-31,Gujarat,Mumbai,U1276,Male,18-24,SBI,Current,P2P,UPI,Paytm,191,Electronics,Yes,NULL,Success,Desktop,3G
+T0278,2025-03-31,Tamil Nadu,Bangalore,U1277,Female,18-24,PNB,Current,P2M,UPI,BHIM,7236,Food,No,Subsidy,Success,Mobile,5G
+T0279,2025-02-16,Tamil Nadu,Mumbai,U1278,Male,35-44,ICICI,Savings,P2P,UPI,GPay,1559,Transfer,Yes,NULL,Failed,Mobile,4G
+T0280,2025-01-25,Karnataka,Chennai,U1279,Female,18-24,HDFC,JanDhan,BillPay,UPI,GPay,8859,Shopping,No,Subsidy,Success,Desktop,3G
+T0281,2025-02-01,Maharashtra,Kolkata,U1280,Female,18-24,SBI,Savings,P2M,UPI,PhonePe,7023,Transfer,Yes,Subsidy,Failed,Mobile,3G
+T0282,2025-02-06,Bihar,Delhi,U1281,Female,18-24,Axis,Savings,P2P,UPI,BHIM,1085,Transfer,No,NULL,Failed,Desktop,5G
+T0283,2025-01-21,West Bengal,Mumbai,U1282,Female,35-44,PNB,Savings,P2M,UPI,GPay,938,Electronics,Yes,Subsidy,Failed,Mobile,3G
+T0284,2025-01-20,Gujarat,Kolkata,U1283,Male,25-34,Axis,JanDhan,P2P,UPI,BHIM,7000,Food,No,Subsidy,Success,Desktop,4G
+T0285,2025-03-15,Bihar,Delhi,U1284,Male,45+,ICICI,Savings,BillPay,UPI,BHIM,2470,Bills,No,PMJDY,Success,Desktop,3G
+T0286,2025-03-06,Delhi,Mumbai,U1285,Female,35-44,Axis,Current,P2P,UPI,BHIM,5062,Shopping,Yes,NULL,Success,Desktop,4G
+T0287,2025-01-06,Karnataka,Mumbai,U1286,Female,35-44,Axis,Current,P2M,UPI,BHIM,3616,Bills,No,PMJDY,Success,Mobile,5G
+T0288,2025-02-03,Karnataka,Patna,U1287,Female,25-34,ICICI,JanDhan,BillPay,UPI,BHIM,3245,Transfer,No,NULL,Failed,Mobile,3G
+T0289,2025-03-03,Gujarat,Ahmedabad,U1288,Male,45+,HDFC,Current,P2M,UPI,BHIM,6365,Transfer,Yes,PMJDY,Success,Mobile,4G
+T0290,2025-03-04,Maharashtra,Ahmedabad,U1289,Male,18-24,HDFC,Current,BillPay,UPI,GPay,9187,Shopping,No,PMJDY,Success,Mobile,3G
+T0291,2025-03-18,Gujarat,Ahmedabad,U1290,Male,45+,ICICI,Savings,BillPay,UPI,BHIM,9596,Shopping,Yes,NULL,Success,Desktop,4G
+T0292,2025-03-27,Maharashtra,Mumbai,U1291,Female,35-44,ICICI,JanDhan,P2P,UPI,PhonePe,916,Shopping,No,Subsidy,Failed,Mobile,5G
+T0293,2025-01-19,West Bengal,Mumbai,U1292,Male,25-34,PNB,JanDhan,P2P,UPI,PhonePe,2878,Shopping,No,Subsidy,Success,Mobile,Broadband
+T0294,2025-03-07,Delhi,Chennai,U1293,Female,35-44,PNB,JanDhan,P2P,UPI,GPay,2256,Food,Yes,PMJDY,Failed,Mobile,Broadband
+T0295,2025-02-07,Gujarat,Bangalore,U1294,Male,35-44,ICICI,JanDhan,BillPay,UPI,BHIM,3861,Electronics,Yes,Subsidy,Success,Desktop,3G
+T0296,2025-03-13,Tamil Nadu,Bangalore,U1295,Male,18-24,SBI,Savings,P2M,UPI,PhonePe,3695,Food,No,PMJDY,Failed,Mobile,Broadband
+T0297,2025-03-26,Tamil Nadu,Delhi,U1296,Male,45+,PNB,Savings,P2P,UPI,PhonePe,5419,Food,Yes,PMJDY,Failed,Desktop,4G
+T0298,2025-03-27,Karnataka,Jaipur,U1297,Female,45+,SBI,Savings,P2P,UPI,BHIM,5292,Food,No,NULL,Success,Desktop,3G
+T0299,2025-02-17,West Bengal,Bangalore,U1298,Female,18-24,Axis,JanDhan,P2M,UPI,Paytm,8197,Food,Yes,Subsidy,Failed,Desktop,3G
+T0300,2025-02-06,Karnataka,Ahmedabad,U1299,Male,35-44,PNB,Savings,P2P,UPI,Paytm,9847,Bills,Yes,Subsidy,Failed,Desktop,3G
+T0301,2025-02-10,Tamil Nadu,Delhi,U1300,Female,18-24,PNB,Savings,BillPay,UPI,PhonePe,346,Shopping,Yes,Subsidy,Success,Desktop,5G
+T0302,2025-03-30,Gujarat,Bangalore,U1301,Female,45+,ICICI,Current,BillPay,UPI,GPay,1617,Transfer,No,Subsidy,Failed,Mobile,4G
+T0303,2025-01-14,Bihar,Patna,U1302,Female,45+,PNB,Current,P2P,UPI,GPay,5078,Transfer,Yes,NULL,Success,Desktop,Broadband
+T0304,2025-01-04,Maharashtra,Bangalore,U1303,Male,25-34,PNB,JanDhan,P2M,UPI,GPay,5549,Food,No,PMJDY,Failed,Desktop,Broadband
+T0305,2025-02-15,Tamil Nadu,Ahmedabad,U1304,Female,18-24,HDFC,Savings,BillPay,UPI,Paytm,7204,Transfer,No,NULL,Failed,Desktop,Broadband
+T0306,2025-01-15,Delhi,Jaipur,U1305,Female,25-34,HDFC,Current,P2P,UPI,BHIM,5418,Bills,No,PMJDY,Failed,Desktop,5G
+T0307,2025-03-31,Tamil Nadu,Chennai,U1306,Male,45+,Axis,Current,BillPay,UPI,GPay,9348,Food,Yes,Subsidy,Failed,Mobile,5G
+T0308,2025-01-29,Bihar,Mumbai,U1307,Male,45+,PNB,Current,P2P,UPI,PhonePe,8354,Bills,No,Subsidy,Success,Desktop,Broadband
+T0309,2025-02-15,Tamil Nadu,Bangalore,U1308,Male,25-34,Axis,Current,P2P,UPI,GPay,9978,Shopping,No,Subsidy,Failed,Mobile,5G
+T0310,2025-02-25,Rajasthan,Kolkata,U1309,Female,18-24,HDFC,Current,P2P,UPI,Paytm,3030,Shopping,No,PMJDY,Success,Mobile,3G
+T0311,2025-01-17,Rajasthan,Delhi,U1310,Female,25-34,HDFC,Current,P2M,UPI,Paytm,3840,Transfer,Yes,Subsidy,Failed,Desktop,Broadband
+T0312,2025-01-27,Karnataka,Jaipur,U1311,Female,35-44,Axis,JanDhan,BillPay,UPI,GPay,4422,Transfer,No,NULL,Failed,Desktop,4G
+T0313,2025-02-13,Rajasthan,Mumbai,U1312,Female,25-34,ICICI,Current,BillPay,UPI,GPay,9788,Transfer,Yes,Subsidy,Success,Desktop,Broadband
+T0314,2025-02-22,Karnataka,Mumbai,U1313,Male,25-34,PNB,Current,P2M,UPI,Paytm,5881,Shopping,No,PMJDY,Failed,Mobile,3G
+T0315,2025-02-24,Maharashtra,Mumbai,U1314,Female,35-44,SBI,Savings,P2P,UPI,Paytm,7424,Bills,Yes,NULL,Failed,Mobile,5G
+T0316,2025-01-17,Gujarat,Jaipur,U1315,Female,35-44,PNB,Current,BillPay,UPI,GPay,1098,Transfer,No,NULL,Success,Mobile,5G
+T0317,2025-03-30,Rajasthan,Patna,U1316,Male,25-34,Axis,JanDhan,P2M,UPI,GPay,7518,Transfer,Yes,Subsidy,Failed,Mobile,Broadband
+T0318,2025-03-22,Karnataka,Bangalore,U1317,Male,35-44,PNB,Savings,P2P,UPI,GPay,265,Bills,Yes,NULL,Success,Desktop,5G
+T0319,2025-03-11,Gujarat,Bangalore,U1318,Female,25-34,PNB,Current,P2P,UPI,GPay,9551,Food,No,Subsidy,Success,Desktop,3G
+T0320,2025-03-27,Delhi,Delhi,U1319,Male,25-34,PNB,JanDhan,BillPay,UPI,PhonePe,8364,Bills,No,Subsidy,Success,Desktop,5G
+T0321,2025-03-10,West Bengal,Patna,U1320,Male,45+,HDFC,JanDhan,BillPay,UPI,Paytm,8465,Transfer,No,Subsidy,Success,Mobile,Broadband
+T0322,2025-02-17,Karnataka,Ahmedabad,U1321,Male,45+,HDFC,JanDhan,P2P,UPI,GPay,8242,Food,No,PMJDY,Success,Mobile,4G
+T0323,2025-02-14,Delhi,Bangalore,U1322,Male,35-44,ICICI,JanDhan,P2P,UPI,GPay,6319,Shopping,Yes,PMJDY,Success,Desktop,3G
+T0324,2025-02-15,Bihar,Patna,U1323,Male,18-24,Axis,Current,P2M,UPI,PhonePe,9553,Electronics,Yes,Subsidy,Success,Desktop,5G
+T0325,2025-03-17,Tamil Nadu,Chennai,U1324,Male,35-44,Axis,Current,P2M,UPI,GPay,7007,Shopping,Yes,PMJDY,Failed,Mobile,3G
+T0326,2025-01-19,West Bengal,Ahmedabad,U1325,Female,18-24,SBI,JanDhan,BillPay,UPI,Paytm,2536,Bills,No,NULL,Success,Desktop,4G
+T0327,2025-01-16,Rajasthan,Patna,U1326,Male,25-34,ICICI,Savings,P2P,UPI,Paytm,6056,Transfer,Yes,NULL,Success,Mobile,4G
+T0328,2025-02-23,Delhi,Chennai,U1327,Female,45+,HDFC,Current,P2P,UPI,BHIM,849,Bills,Yes,NULL,Success,Mobile,5G
+T0329,2025-02-07,West Bengal,Kolkata,U1328,Male,35-44,Axis,Current,P2M,UPI,BHIM,6805,Shopping,Yes,Subsidy,Success,Mobile,5G
+T0330,2025-02-09,Delhi,Patna,U1329,Male,45+,SBI,Current,P2P,UPI,Paytm,9339,Electronics,No,NULL,Success,Mobile,5G
+T0331,2025-02-14,Rajasthan,Chennai,U1330,Male,35-44,ICICI,Savings,P2M,UPI,BHIM,2663,Food,Yes,NULL,Failed,Desktop,5G
+T0332,2025-02-24,Bihar,Jaipur,U1331,Male,25-34,SBI,Savings,P2P,UPI,PhonePe,7779,Food,Yes,NULL,Success,Mobile,Broadband
+T0333,2025-03-24,Bihar,Bangalore,U1332,Male,25-34,Axis,Current,BillPay,UPI,GPay,3481,Electronics,No,PMJDY,Failed,Mobile,3G
+T0334,2025-03-14,Delhi,Kolkata,U1333,Female,25-34,SBI,Current,P2M,UPI,Paytm,4645,Shopping,Yes,Subsidy,Success,Desktop,4G
+T0335,2025-01-09,Maharashtra,Delhi,U1334,Male,35-44,Axis,Savings,P2M,UPI,PhonePe,1196,Shopping,No,NULL,Failed,Mobile,3G
+T0336,2025-03-14,Rajasthan,Bangalore,U1335,Female,35-44,PNB,JanDhan,P2P,UPI,PhonePe,334,Food,No,Subsidy,Failed,Mobile,5G
+T0337,2025-02-05,Tamil Nadu,Patna,U1336,Male,18-24,ICICI,Savings,P2M,UPI,BHIM,5199,Electronics,No,PMJDY,Success,Desktop,3G
+T0338,2025-03-25,Karnataka,Chennai,U1337,Male,25-34,HDFC,JanDhan,BillPay,UPI,PhonePe,1647,Electronics,Yes,PMJDY,Success,Desktop,5G
+T0339,2025-02-05,Delhi,Delhi,U1338,Female,18-24,Axis,Current,P2P,UPI,PhonePe,3222,Bills,Yes,Subsidy,Failed,Desktop,5G
+T0340,2025-01-30,Karnataka,Mumbai,U1339,Female,35-44,HDFC,JanDhan,P2M,UPI,GPay,1396,Transfer,No,Subsidy,Success,Desktop,3G
+T0341,2025-01-31,Gujarat,Jaipur,U1340,Male,45+,SBI,JanDhan,P2M,UPI,Paytm,2756,Bills,No,Subsidy,Failed,Mobile,Broadband
+T0342,2025-01-04,Maharashtra,Patna,U1341,Male,35-44,HDFC,Savings,P2P,UPI,BHIM,6650,Transfer,No,Subsidy,Success,Desktop,5G
+T0343,2025-02-08,Rajasthan,Chennai,U1342,Male,18-24,Axis,Current,BillPay,UPI,GPay,1870,Electronics,Yes,PMJDY,Success,Mobile,Broadband
+T0344,2025-03-10,West Bengal,Ahmedabad,U1343,Male,45+,ICICI,Savings,BillPay,UPI,GPay,3002,Food,Yes,NULL,Success,Mobile,Broadband
+T0345,2025-02-18,Gujarat,Patna,U1344,Male,18-24,SBI,Savings,P2P,UPI,GPay,7165,Food,No,PMJDY,Success,Mobile,4G
+T0346,2025-02-26,West Bengal,Chennai,U1345,Female,18-24,ICICI,JanDhan,P2M,UPI,Paytm,3473,Food,No,NULL,Failed,Mobile,4G
+T0347,2025-03-19,Bihar,Ahmedabad,U1346,Male,45+,ICICI,JanDhan,BillPay,UPI,PhonePe,209,Bills,Yes,NULL,Failed,Mobile,3G
+T0348,2025-03-02,Bihar,Patna,U1347,Female,18-24,ICICI,Current,BillPay,UPI,BHIM,1531,Electronics,Yes,Subsidy,Success,Desktop,5G
+T0349,2025-01-18,Karnataka,Bangalore,U1348,Female,25-34,HDFC,Savings,P2M,UPI,BHIM,8597,Electronics,Yes,Subsidy,Failed,Desktop,3G
+T0350,2025-02-21,Rajasthan,Patna,U1349,Female,25-34,PNB,JanDhan,BillPay,UPI,GPay,1334,Electronics,Yes,NULL,Success,Mobile,Broadband
+T0351,2025-01-13,Gujarat,Bangalore,U1350,Male,45+,PNB,Current,P2M,UPI,BHIM,9719,Bills,Yes,PMJDY,Success,Mobile,4G
+T0352,2025-02-06,Bihar,Delhi,U1351,Male,25-34,Axis,Current,BillPay,UPI,GPay,8553,Bills,No,NULL,Success,Mobile,Broadband
+T0353,2025-01-04,Bihar,Patna,U1352,Male,45+,HDFC,JanDhan,P2P,UPI,Paytm,108,Food,No,PMJDY,Failed,Mobile,3G
+T0354,2025-03-28,Bihar,Mumbai,U1353,Female,45+,Axis,Current,BillPay,UPI,Paytm,7016,Bills,No,Subsidy,Success,Mobile,4G
+T0355,2025-01-17,Karnataka,Patna,U1354,Female,18-24,SBI,Savings,BillPay,UPI,PhonePe,3471,Electronics,No,Subsidy,Success,Mobile,5G
+T0356,2025-02-06,Maharashtra,Ahmedabad,U1355,Female,35-44,SBI,Current,BillPay,UPI,Paytm,8035,Food,Yes,NULL,Failed,Desktop,5G
+T0357,2025-01-14,Maharashtra,Bangalore,U1356,Female,25-34,HDFC,Savings,BillPay,UPI,GPay,7044,Electronics,No,NULL,Failed,Mobile,Broadband
+T0358,2025-03-22,Bihar,Delhi,U1357,Female,35-44,SBI,JanDhan,P2M,UPI,BHIM,6665,Electronics,Yes,NULL,Success,Desktop,5G
+T0359,2025-01-04,Rajasthan,Ahmedabad,U1358,Male,25-34,ICICI,Savings,P2M,UPI,Paytm,8662,Food,No,NULL,Failed,Desktop,5G
+T0360,2025-01-17,Bihar,Mumbai,U1359,Female,18-24,ICICI,Savings,P2M,UPI,BHIM,4689,Transfer,Yes,NULL,Failed,Desktop,3G
+T0361,2025-02-16,Tamil Nadu,Delhi,U1360,Male,35-44,Axis,Current,P2M,UPI,Paytm,5058,Transfer,Yes,NULL,Failed,Mobile,3G
+T0362,2025-03-21,West Bengal,Kolkata,U1361,Male,45+,SBI,JanDhan,P2P,UPI,PhonePe,9191,Shopping,No,NULL,Success,Mobile,4G
+T0363,2025-02-02,West Bengal,Ahmedabad,U1362,Female,25-34,HDFC,Current,P2M,UPI,Paytm,2392,Transfer,Yes,NULL,Success,Mobile,5G
+T0364,2025-03-12,Rajasthan,Chennai,U1363,Female,25-34,Axis,Current,P2M,UPI,BHIM,9729,Shopping,Yes,Subsidy,Failed,Mobile,5G
+T0365,2025-02-28,Delhi,Ahmedabad,U1364,Female,25-34,PNB,JanDhan,P2M,UPI,PhonePe,5695,Food,Yes,PMJDY,Success,Mobile,4G
+T0366,2025-01-23,Delhi,Patna,U1365,Female,18-24,SBI,Current,P2M,UPI,GPay,8725,Food,Yes,PMJDY,Failed,Mobile,3G
+T0367,2025-03-13,Bihar,Jaipur,U1366,Male,45+,PNB,JanDhan,BillPay,UPI,BHIM,9235,Bills,Yes,NULL,Failed,Mobile,Broadband
+T0368,2025-03-26,Gujarat,Ahmedabad,U1367,Male,45+,SBI,JanDhan,P2M,UPI,Paytm,9702,Shopping,No,Subsidy,Failed,Desktop,5G
+T0369,2025-03-21,Karnataka,Bangalore,U1368,Female,18-24,HDFC,Current,P2P,UPI,GPay,230,Transfer,Yes,NULL,Failed,Desktop,Broadband
+T0370,2025-02-20,Tamil Nadu,Ahmedabad,U1369,Female,45+,HDFC,JanDhan,P2M,UPI,BHIM,8482,Food,Yes,PMJDY,Success,Desktop,Broadband
+T0371,2025-03-11,West Bengal,Chennai,U1370,Female,45+,SBI,JanDhan,P2P,UPI,Paytm,7104,Food,No,NULL,Success,Mobile,Broadband
+T0372,2025-03-21,Delhi,Kolkata,U1371,Male,25-34,SBI,Current,P2P,UPI,Paytm,6167,Shopping,No,NULL,Success,Mobile,4G
+T0373,2025-03-01,Tamil Nadu,Kolkata,U1372,Male,45+,ICICI,Savings,P2P,UPI,Paytm,7935,Food,No,NULL,Failed,Mobile,4G
+T0374,2025-03-10,Karnataka,Kolkata,U1373,Male,35-44,HDFC,Savings,BillPay,UPI,PhonePe,6119,Transfer,Yes,PMJDY,Failed,Desktop,4G
+T0375,2025-01-12,Gujarat,Chennai,U1374,Female,25-34,ICICI,Current,P2M,UPI,PhonePe,2689,Bills,No,PMJDY,Success,Desktop,3G
+T0376,2025-03-08,Gujarat,Delhi,U1375,Female,18-24,PNB,Savings,P2P,UPI,Paytm,494,Food,Yes,NULL,Failed,Mobile,Broadband
+T0377,2025-03-25,Karnataka,Mumbai,U1376,Male,25-34,ICICI,Current,P2P,UPI,PhonePe,7147,Shopping,No,Subsidy,Success,Mobile,Broadband
+T0378,2025-02-09,Rajasthan,Delhi,U1377,Female,35-44,HDFC,Savings,P2M,UPI,Paytm,6725,Transfer,No,NULL,Success,Mobile,5G
+T0379,2025-01-20,Maharashtra,Jaipur,U1378,Male,18-24,SBI,JanDhan,BillPay,UPI,GPay,1358,Electronics,Yes,PMJDY,Success,Mobile,Broadband
+T0380,2025-03-17,Karnataka,Ahmedabad,U1379,Male,35-44,ICICI,Current,P2P,UPI,PhonePe,725,Food,Yes,Subsidy,Success,Desktop,3G
+T0381,2025-02-26,Gujarat,Chennai,U1380,Female,35-44,PNB,JanDhan,BillPay,UPI,Paytm,7602,Transfer,No,PMJDY,Failed,Mobile,3G
+T0382,2025-03-27,Delhi,Delhi,U1381,Male,18-24,Axis,Current,P2M,UPI,BHIM,3303,Electronics,No,Subsidy,Success,Mobile,4G
+T0383,2025-02-21,Bihar,Kolkata,U1382,Male,35-44,SBI,Current,P2M,UPI,Paytm,1219,Food,Yes,NULL,Failed,Mobile,5G
+T0384,2025-02-11,Maharashtra,Delhi,U1383,Female,18-24,HDFC,Savings,P2P,UPI,GPay,6255,Transfer,Yes,NULL,Success,Mobile,4G
+T0385,2025-02-20,Maharashtra,Kolkata,U1384,Male,45+,ICICI,JanDhan,P2M,UPI,BHIM,9734,Bills,No,NULL,Failed,Mobile,5G
+T0386,2025-01-12,Bihar,Chennai,U1385,Female,18-24,ICICI,JanDhan,P2P,UPI,Paytm,6282,Food,Yes,Subsidy,Success,Desktop,4G
+T0387,2025-02-07,Karnataka,Delhi,U1386,Male,25-34,Axis,Current,P2P,UPI,GPay,2990,Bills,Yes,Subsidy,Success,Mobile,Broadband
+T0388,2025-01-12,Bihar,Chennai,U1387,Male,45+,Axis,Current,P2P,UPI,BHIM,1650,Electronics,No,Subsidy,Success,Desktop,4G
+T0389,2025-01-01,West Bengal,Mumbai,U1388,Male,45+,Axis,Current,P2P,UPI,GPay,3587,Food,No,Subsidy,Success,Desktop,5G
+T0390,2025-02-02,Maharashtra,Chennai,U1389,Female,18-24,PNB,Savings,BillPay,UPI,PhonePe,5975,Shopping,No,PMJDY,Failed,Mobile,3G
+T0391,2025-02-10,Bihar,Ahmedabad,U1390,Male,18-24,ICICI,JanDhan,P2P,UPI,BHIM,3451,Bills,No,NULL,Failed,Desktop,Broadband
+T0392,2025-01-22,Gujarat,Patna,U1391,Female,35-44,HDFC,Savings,P2M,UPI,BHIM,6753,Shopping,No,PMJDY,Failed,Mobile,3G
+T0393,2025-03-04,Bihar,Bangalore,U1392,Male,45+,PNB,Savings,BillPay,UPI,BHIM,7787,Electronics,No,Subsidy,Success,Desktop,3G
+T0394,2025-01-11,Maharashtra,Bangalore,U1393,Female,35-44,Axis,Savings,BillPay,UPI,Paytm,7442,Shopping,Yes,NULL,Success,Desktop,3G
+T0395,2025-03-11,Maharashtra,Chennai,U1394,Male,18-24,HDFC,Savings,P2P,UPI,PhonePe,7815,Electronics,Yes,NULL,Success,Desktop,3G
+T0396,2025-01-08,Tamil Nadu,Mumbai,U1395,Male,25-34,ICICI,Savings,BillPay,UPI,PhonePe,278,Electronics,Yes,NULL,Failed,Mobile,3G
+T0397,2025-02-23,West Bengal,Delhi,U1396,Male,25-34,HDFC,Savings,P2M,UPI,GPay,4311,Bills,No,PMJDY,Success,Mobile,Broadband
+T0398,2025-03-08,Karnataka,Kolkata,U1397,Female,18-24,Axis,Savings,P2P,UPI,Paytm,4682,Transfer,No,NULL,Failed,Desktop,Broadband
+T0399,2025-03-31,Delhi,Chennai,U1398,Male,35-44,Axis,JanDhan,P2P,UPI,PhonePe,2252,Bills,Yes,PMJDY,Success,Desktop,3G
+T0400,2025-03-22,Karnataka,Mumbai,U1399,Male,25-34,PNB,Savings,P2M,UPI,PhonePe,5585,Transfer,Yes,NULL,Success,Mobile,5G
+T0401,2025-01-09,Karnataka,Chennai,U1400,Male,35-44,SBI,Current,BillPay,UPI,BHIM,7768,Food,Yes,PMJDY,Failed,Mobile,3G
+T0402,2025-03-08,Gujarat,Ahmedabad,U1401,Female,18-24,HDFC,JanDhan,P2M,UPI,GPay,7679,Transfer,No,NULL,Failed,Desktop,5G
+T0403,2025-03-28,Rajasthan,Jaipur,U1402,Male,35-44,HDFC,Savings,P2M,UPI,PhonePe,3765,Shopping,Yes,Subsidy,Success,Desktop,3G
+T0404,2025-01-28,Maharashtra,Bangalore,U1403,Male,35-44,SBI,Current,BillPay,UPI,Paytm,1265,Food,No,PMJDY,Failed,Desktop,4G
+T0405,2025-03-07,Bihar,Chennai,U1404,Female,45+,HDFC,Current,P2M,UPI,Paytm,9155,Food,Yes,PMJDY,Failed,Desktop,Broadband
+T0406,2025-02-15,Delhi,Kolkata,U1405,Female,18-24,SBI,JanDhan,P2M,UPI,Paytm,8231,Shopping,Yes,PMJDY,Success,Desktop,5G
+T0407,2025-02-05,Maharashtra,Mumbai,U1406,Female,18-24,ICICI,Savings,P2P,UPI,BHIM,2620,Bills,Yes,PMJDY,Failed,Desktop,Broadband
+T0408,2025-02-16,Delhi,Chennai,U1407,Female,18-24,PNB,Current,BillPay,UPI,BHIM,6515,Food,Yes,NULL,Failed,Mobile,5G
+T0409,2025-03-25,Bihar,Bangalore,U1408,Male,45+,SBI,JanDhan,P2M,UPI,Paytm,3460,Food,Yes,Subsidy,Failed,Desktop,Broadband
+T0410,2025-02-25,Delhi,Jaipur,U1409,Female,45+,ICICI,Current,P2P,UPI,GPay,9911,Electronics,No,Subsidy,Failed,Desktop,3G
+T0411,2025-02-08,West Bengal,Chennai,U1410,Female,18-24,Axis,Savings,BillPay,UPI,Paytm,7226,Electronics,No,PMJDY,Failed,Desktop,5G
+T0412,2025-02-08,Rajasthan,Chennai,U1411,Female,45+,ICICI,JanDhan,P2P,UPI,PhonePe,9020,Bills,No,NULL,Failed,Mobile,3G
+T0413,2025-01-04,Bihar,Kolkata,U1412,Male,25-34,Axis,Current,P2M,UPI,GPay,7365,Electronics,No,Subsidy,Success,Mobile,3G
+T0414,2025-01-12,Gujarat,Patna,U1413,Female,35-44,HDFC,Current,P2M,UPI,Paytm,1116,Shopping,Yes,Subsidy,Success,Mobile,4G
+T0415,2025-01-16,Tamil Nadu,Jaipur,U1414,Male,35-44,HDFC,Savings,P2P,UPI,GPay,7017,Electronics,No,Subsidy,Success,Mobile,Broadband
+T0416,2025-03-25,Delhi,Kolkata,U1415,Male,35-44,Axis,JanDhan,P2M,UPI,PhonePe,4160,Transfer,Yes,PMJDY,Failed,Desktop,5G
+T0417,2025-03-12,Delhi,Bangalore,U1416,Male,35-44,ICICI,Savings,P2P,UPI,BHIM,1106,Food,No,PMJDY,Success,Desktop,Broadband
+T0418,2025-02-03,Karnataka,Ahmedabad,U1417,Female,45+,Axis,Savings,P2M,UPI,GPay,1467,Food,No,PMJDY,Success,Mobile,Broadband
+T0419,2025-03-19,Rajasthan,Chennai,U1418,Male,25-34,SBI,JanDhan,P2M,UPI,Paytm,5261,Bills,No,Subsidy,Success,Desktop,4G
+T0420,2025-03-19,Tamil Nadu,Bangalore,U1419,Male,45+,Axis,Savings,BillPay,UPI,BHIM,5459,Transfer,Yes,NULL,Success,Desktop,4G
+T0421,2025-01-08,Karnataka,Chennai,U1420,Male,35-44,PNB,JanDhan,BillPay,UPI,BHIM,2429,Bills,Yes,NULL,Failed,Desktop,Broadband
+T0422,2025-01-24,Rajasthan,Patna,U1421,Male,35-44,ICICI,Current,P2M,UPI,PhonePe,3966,Transfer,No,NULL,Failed,Desktop,3G
+T0423,2025-02-01,West Bengal,Jaipur,U1422,Female,25-34,PNB,JanDhan,P2P,UPI,GPay,9768,Food,No,PMJDY,Failed,Desktop,4G
+T0424,2025-03-16,Karnataka,Bangalore,U1423,Male,45+,ICICI,Savings,P2P,UPI,GPay,1304,Transfer,Yes,Subsidy,Failed,Mobile,5G
+T0425,2025-02-13,Tamil Nadu,Jaipur,U1424,Male,25-34,ICICI,Current,BillPay,UPI,BHIM,5362,Bills,No,Subsidy,Success,Mobile,3G
+T0426,2025-01-03,West Bengal,Patna,U1425,Female,25-34,SBI,Savings,P2M,UPI,PhonePe,7819,Food,Yes,NULL,Failed,Mobile,3G
+T0427,2025-03-28,Gujarat,Jaipur,U1426,Male,18-24,HDFC,Current,P2M,UPI,Paytm,2559,Transfer,No,Subsidy,Failed,Mobile,Broadband
+T0428,2025-01-22,West Bengal,Chennai,U1427,Female,25-34,ICICI,Savings,P2P,UPI,BHIM,1785,Shopping,No,NULL,Success,Mobile,5G
+T0429,2025-03-28,Bihar,Bangalore,U1428,Male,18-24,PNB,JanDhan,P2P,UPI,PhonePe,1747,Bills,Yes,Subsidy,Success,Mobile,Broadband
+T0430,2025-02-17,Tamil Nadu,Patna,U1429,Male,45+,HDFC,JanDhan,P2P,UPI,PhonePe,105,Bills,No,Subsidy,Success,Mobile,Broadband
+T0431,2025-03-09,Bihar,Bangalore,U1430,Male,18-24,HDFC,Current,P2M,UPI,Paytm,299,Transfer,No,Subsidy,Failed,Desktop,3G
+T0432,2025-02-10,Tamil Nadu,Chennai,U1431,Male,45+,HDFC,JanDhan,BillPay,UPI,PhonePe,604,Bills,No,NULL,Success,Desktop,3G
+T0433,2025-01-30,Gujarat,Patna,U1432,Female,25-34,ICICI,Savings,BillPay,UPI,Paytm,7128,Shopping,Yes,PMJDY,Success,Desktop,Broadband
+T0434,2025-03-07,Delhi,Ahmedabad,U1433,Male,18-24,Axis,JanDhan,BillPay,UPI,Paytm,2725,Food,No,PMJDY,Failed,Mobile,Broadband
+T0435,2025-03-31,Tamil Nadu,Patna,U1434,Male,35-44,PNB,Savings,BillPay,UPI,PhonePe,8032,Shopping,Yes,PMJDY,Success,Desktop,3G
+T0436,2025-01-01,Karnataka,Mumbai,U1435,Female,35-44,HDFC,JanDhan,BillPay,UPI,PhonePe,3506,Food,Yes,NULL,Failed,Desktop,5G
+T0437,2025-01-25,Rajasthan,Kolkata,U1436,Male,25-34,Axis,Savings,P2P,UPI,PhonePe,9937,Food,No,PMJDY,Failed,Desktop,Broadband
+T0438,2025-02-17,Delhi,Delhi,U1437,Male,18-24,PNB,JanDhan,P2P,UPI,Paytm,7810,Shopping,No,Subsidy,Success,Mobile,5G
+T0439,2025-01-09,Maharashtra,Jaipur,U1438,Male,45+,HDFC,JanDhan,BillPay,UPI,BHIM,7816,Food,No,Subsidy,Success,Mobile,4G
+T0440,2025-03-30,Delhi,Ahmedabad,U1439,Female,18-24,ICICI,Savings,BillPay,UPI,Paytm,7603,Bills,Yes,NULL,Success,Mobile,Broadband
+T0441,2025-03-14,Delhi,Delhi,U1440,Female,25-34,HDFC,JanDhan,BillPay,UPI,GPay,112,Transfer,No,Subsidy,Failed,Mobile,4G
+T0442,2025-02-17,Gujarat,Chennai,U1441,Male,35-44,ICICI,Current,BillPay,UPI,BHIM,5436,Food,No,NULL,Failed,Mobile,3G
+T0443,2025-02-28,Maharashtra,Delhi,U1442,Male,18-24,Axis,Current,P2M,UPI,PhonePe,8415,Transfer,No,Subsidy,Failed,Mobile,4G
+T0444,2025-01-12,Delhi,Jaipur,U1443,Female,25-34,ICICI,Current,P2M,UPI,PhonePe,4803,Food,Yes,PMJDY,Failed,Desktop,3G
+T0445,2025-01-21,Delhi,Delhi,U1444,Male,18-24,SBI,Savings,P2M,UPI,BHIM,1969,Transfer,No,Subsidy,Success,Mobile,5G
+T0446,2025-02-09,Tamil Nadu,Ahmedabad,U1445,Male,25-34,HDFC,Current,P2M,UPI,PhonePe,9136,Food,Yes,Subsidy,Success,Desktop,3G
+T0447,2025-02-24,Bihar,Mumbai,U1446,Male,45+,Axis,Savings,P2P,UPI,GPay,4940,Bills,Yes,PMJDY,Failed,Mobile,4G
+T0448,2025-02-20,Tamil Nadu,Chennai,U1447,Female,18-24,PNB,Current,P2M,UPI,PhonePe,5445,Transfer,Yes,NULL,Failed,Desktop,3G
+T0449,2025-02-27,Maharashtra,Delhi,U1448,Female,45+,PNB,JanDhan,P2M,UPI,PhonePe,7064,Transfer,Yes,PMJDY,Failed,Mobile,5G
+T0450,2025-03-25,Tamil Nadu,Ahmedabad,U1449,Female,35-44,ICICI,Current,P2M,UPI,BHIM,3839,Transfer,No,Subsidy,Failed,Desktop,5G
+T0451,2025-01-31,West Bengal,Chennai,U1450,Female,25-34,SBI,Savings,P2M,UPI,GPay,4060,Transfer,Yes,PMJDY,Success,Desktop,3G
+T0452,2025-03-17,Rajasthan,Kolkata,U1451,Female,25-34,Axis,Savings,BillPay,UPI,GPay,1833,Food,Yes,Subsidy,Success,Mobile,3G
+T0453,2025-03-13,Bihar,Kolkata,U1452,Male,35-44,SBI,Current,P2P,UPI,Paytm,1395,Bills,No,NULL,Failed,Desktop,5G
+T0454,2025-01-27,Rajasthan,Bangalore,U1453,Female,35-44,SBI,JanDhan,P2M,UPI,Paytm,4454,Food,Yes,Subsidy,Success,Mobile,3G
+T0455,2025-01-25,West Bengal,Bangalore,U1454,Male,18-24,SBI,JanDhan,P2M,UPI,BHIM,9808,Shopping,Yes,NULL,Success,Desktop,4G
+T0456,2025-02-19,Karnataka,Kolkata,U1455,Female,18-24,ICICI,Savings,BillPay,UPI,PhonePe,9129,Food,No,Subsidy,Failed,Mobile,5G
+T0457,2025-03-03,Bihar,Patna,U1456,Female,25-34,PNB,Savings,P2M,UPI,BHIM,9635,Transfer,Yes,PMJDY,Failed,Mobile,Broadband
+T0458,2025-02-25,Delhi,Bangalore,U1457,Female,45+,Axis,Current,BillPay,UPI,BHIM,2145,Food,No,NULL,Success,Desktop,3G
+T0459,2025-02-24,Tamil Nadu,Chennai,U1458,Female,18-24,ICICI,Current,BillPay,UPI,GPay,9087,Electronics,Yes,PMJDY,Failed,Desktop,3G
+T0460,2025-03-20,Maharashtra,Patna,U1459,Female,35-44,ICICI,Savings,P2M,UPI,PhonePe,4102,Transfer,No,NULL,Failed,Mobile,5G
+T0461,2025-01-28,Delhi,Patna,U1460,Female,35-44,PNB,Savings,P2P,UPI,BHIM,7437,Bills,Yes,PMJDY,Failed,Desktop,5G
+T0462,2025-02-06,Delhi,Bangalore,U1461,Female,35-44,SBI,JanDhan,BillPay,UPI,PhonePe,4709,Electronics,Yes,NULL,Success,Mobile,Broadband
+T0463,2025-02-12,Maharashtra,Patna,U1462,Male,18-24,HDFC,JanDhan,BillPay,UPI,BHIM,8099,Electronics,Yes,PMJDY,Success,Desktop,5G
+T0464,2025-03-01,Gujarat,Bangalore,U1463,Male,25-34,ICICI,Savings,P2P,UPI,GPay,1099,Bills,Yes,PMJDY,Failed,Mobile,5G
+T0465,2025-01-20,Tamil Nadu,Kolkata,U1464,Male,35-44,ICICI,Current,P2M,UPI,PhonePe,4258,Electronics,No,NULL,Success,Desktop,5G
+T0466,2025-03-31,Maharashtra,Mumbai,U1465,Female,35-44,SBI,Current,P2M,UPI,BHIM,3664,Shopping,Yes,PMJDY,Success,Mobile,Broadband
+T0467,2025-03-03,West Bengal,Kolkata,U1466,Male,18-24,ICICI,Savings,BillPay,UPI,GPay,1529,Shopping,Yes,PMJDY,Success,Mobile,3G
+T0468,2025-01-23,Maharashtra,Bangalore,U1467,Male,18-24,HDFC,Current,P2M,UPI,BHIM,3922,Food,Yes,Subsidy,Failed,Desktop,4G
+T0469,2025-01-22,Rajasthan,Bangalore,U1468,Male,18-24,PNB,JanDhan,P2P,UPI,BHIM,6431,Shopping,No,NULL,Failed,Mobile,3G
+T0470,2025-03-09,Tamil Nadu,Patna,U1469,Male,35-44,HDFC,Current,P2P,UPI,BHIM,5119,Electronics,No,NULL,Failed,Desktop,3G
+T0471,2025-03-31,Rajasthan,Patna,U1470,Female,25-34,PNB,JanDhan,P2M,UPI,PhonePe,939,Food,Yes,Subsidy,Failed,Mobile,4G
+T0472,2025-01-01,Gujarat,Mumbai,U1471,Male,25-34,HDFC,Savings,BillPay,UPI,BHIM,9654,Transfer,Yes,Subsidy,Failed,Desktop,Broadband
+T0473,2025-01-19,Karnataka,Bangalore,U1472,Female,35-44,SBI,JanDhan,P2P,UPI,PhonePe,5300,Transfer,No,NULL,Success,Desktop,3G
+T0474,2025-02-23,West Bengal,Delhi,U1473,Female,18-24,ICICI,Savings,P2P,UPI,PhonePe,4433,Electronics,No,PMJDY,Failed,Mobile,3G
+T0475,2025-01-06,Rajasthan,Patna,U1474,Male,18-24,ICICI,JanDhan,BillPay,UPI,PhonePe,7298,Food,Yes,Subsidy,Success,Mobile,4G
+T0476,2025-01-30,Karnataka,Patna,U1475,Female,35-44,Axis,JanDhan,BillPay,UPI,Paytm,804,Food,Yes,PMJDY,Success,Mobile,4G
+T0477,2025-03-06,Bihar,Delhi,U1476,Male,25-34,Axis,JanDhan,P2P,UPI,BHIM,8204,Food,No,PMJDY,Success,Desktop,5G
+T0478,2025-01-16,Gujarat,Mumbai,U1477,Male,25-34,Axis,Savings,P2M,UPI,BHIM,309,Food,Yes,NULL,Failed,Desktop,3G
+T0479,2025-03-02,Tamil Nadu,Patna,U1478,Female,25-34,Axis,JanDhan,P2P,UPI,PhonePe,8581,Shopping,Yes,Subsidy,Success,Desktop,3G
+T0480,2025-02-16,Bihar,Kolkata,U1479,Female,25-34,HDFC,JanDhan,P2P,UPI,BHIM,1540,Food,No,NULL,Success,Mobile,4G
+T0481,2025-01-09,Karnataka,Chennai,U1480,Male,25-34,PNB,JanDhan,BillPay,UPI,Paytm,482,Food,Yes,Subsidy,Failed,Desktop,Broadband
+T0482,2025-03-10,Delhi,Mumbai,U1481,Male,45+,Axis,Current,BillPay,UPI,GPay,8650,Transfer,No,Subsidy,Success,Desktop,4G
+T0483,2025-02-16,Bihar,Delhi,U1482,Male,45+,SBI,Current,P2P,UPI,GPay,769,Shopping,Yes,Subsidy,Failed,Desktop,Broadband
+T0484,2025-01-14,Rajasthan,Jaipur,U1483,Female,35-44,SBI,JanDhan,P2P,UPI,GPay,9311,Food,No,Subsidy,Success,Mobile,4G
+T0485,2025-03-15,Maharashtra,Kolkata,U1484,Female,25-34,HDFC,JanDhan,P2M,UPI,GPay,9880,Bills,Yes,PMJDY,Success,Mobile,Broadband
+T0486,2025-01-29,Maharashtra,Delhi,U1485,Male,45+,Axis,Savings,BillPay,UPI,PhonePe,6885,Electronics,No,Subsidy,Success,Mobile,Broadband
+T0487,2025-02-20,Karnataka,Ahmedabad,U1486,Female,25-34,HDFC,JanDhan,P2P,UPI,GPay,7502,Shopping,No,PMJDY,Failed,Mobile,4G
+T0488,2025-03-11,Karnataka,Chennai,U1487,Male,45+,HDFC,Savings,BillPay,UPI,PhonePe,2089,Electronics,No,PMJDY,Failed,Mobile,4G
+T0489,2025-03-03,Rajasthan,Ahmedabad,U1488,Male,45+,SBI,Savings,P2M,UPI,PhonePe,7200,Bills,Yes,PMJDY,Failed,Desktop,4G
+T0490,2025-02-03,Karnataka,Delhi,U1489,Male,35-44,SBI,Current,P2M,UPI,PhonePe,611,Transfer,No,Subsidy,Success,Mobile,3G
+T0491,2025-02-02,Bihar,Chennai,U1490,Male,25-34,SBI,Current,BillPay,UPI,GPay,1101,Electronics,Yes,Subsidy,Success,Mobile,4G
+T0492,2025-04-01,Maharashtra,Delhi,U1491,Male,25-34,HDFC,Savings,P2P,UPI,BHIM,6542,Shopping,Yes,Subsidy,Failed,Mobile,3G
+T0493,2025-03-27,Maharashtra,Mumbai,U1492,Female,25-34,PNB,Current,P2P,UPI,PhonePe,3395,Electronics,Yes,PMJDY,Failed,Mobile,4G
+T0494,2025-03-10,Delhi,Bangalore,U1493,Male,18-24,Axis,Savings,P2P,UPI,GPay,9115,Electronics,No,NULL,Failed,Desktop,4G
+T0495,2025-02-28,Bihar,Ahmedabad,U1494,Female,35-44,PNB,Current,BillPay,UPI,Paytm,6514,Food,Yes,PMJDY,Success,Desktop,3G
+T0496,2025-03-13,Karnataka,Delhi,U1495,Male,25-34,SBI,Current,P2M,UPI,BHIM,8113,Shopping,Yes,PMJDY,Success,Mobile,4G
+T0497,2025-02-20,Bihar,Delhi,U1496,Male,25-34,PNB,Savings,P2M,UPI,BHIM,7162,Transfer,Yes,Subsidy,Success,Desktop,3G
+T0498,2025-01-04,Maharashtra,Chennai,U1497,Female,18-24,PNB,Savings,BillPay,UPI,PhonePe,5795,Food,Yes,PMJDY,Failed,Desktop,Broadband
+T0499,2025-01-23,Rajasthan,Mumbai,U1498,Male,25-34,Axis,Current,P2P,UPI,PhonePe,7144,Shopping,No,NULL,Failed,Mobile,4G
+T0500,2025-03-22,Gujarat,Chennai,U1499,Male,25-34,HDFC,JanDhan,BillPay,UPI,BHIM,5361,Bills,No,Subsidy,Failed,Mobile,5G
+T0501,2025-03-16,Maharashtra,Bangalore,U1500,Female,18-24,SBI,Current,P2P,UPI,Paytm,8084,Transfer,No,NULL,Failed,Desktop,4G
+T0502,2025-02-03,Maharashtra,Patna,U1501,Female,45+,Axis,Current,BillPay,UPI,Paytm,6111,Bills,No,Subsidy,Success,Mobile,5G
+T0503,2025-03-23,Karnataka,Ahmedabad,U1502,Female,18-24,PNB,JanDhan,P2M,UPI,Paytm,4127,Food,Yes,PMJDY,Success,Desktop,Broadband
+T0504,2025-03-19,Bihar,Mumbai,U1503,Female,45+,ICICI,Current,P2M,UPI,PhonePe,5133,Shopping,Yes,PMJDY,Failed,Mobile,4G
+T0505,2025-02-16,Bihar,Kolkata,U1504,Male,35-44,Axis,JanDhan,BillPay,UPI,Paytm,3986,Electronics,No,Subsidy,Success,Desktop,5G
+T0506,2025-03-13,Rajasthan,Chennai,U1505,Female,25-34,HDFC,JanDhan,P2P,UPI,GPay,9826,Shopping,No,PMJDY,Failed,Desktop,3G
+T0507,2025-01-12,Bihar,Delhi,U1506,Male,18-24,HDFC,Savings,P2M,UPI,GPay,8521,Food,No,NULL,Success,Mobile,3G
+T0508,2025-02-12,Delhi,Bangalore,U1507,Male,45+,HDFC,Savings,P2P,UPI,Paytm,1691,Electronics,No,Subsidy,Success,Desktop,4G
+T0509,2025-01-18,Bihar,Ahmedabad,U1508,Female,35-44,SBI,JanDhan,BillPay,UPI,PhonePe,2893,Shopping,No,NULL,Success,Desktop,Broadband
+T0510,2025-02-22,West Bengal,Kolkata,U1509,Male,45+,SBI,Savings,P2M,UPI,Paytm,1524,Bills,No,PMJDY,Success,Desktop,3G
+T0511,2025-02-03,Tamil Nadu,Patna,U1510,Female,25-34,PNB,Current,P2P,UPI,PhonePe,7512,Food,No,Subsidy,Failed,Mobile,Broadband
+T0512,2025-02-09,Karnataka,Jaipur,U1511,Female,45+,ICICI,JanDhan,BillPay,UPI,BHIM,7236,Shopping,Yes,PMJDY,Failed,Desktop,5G
+T0513,2025-02-19,West Bengal,Bangalore,U1512,Female,35-44,PNB,Savings,P2M,UPI,PhonePe,9621,Electronics,No,Subsidy,Success,Desktop,Broadband
+T0514,2025-03-26,Rajasthan,Delhi,U1513,Female,35-44,PNB,Savings,BillPay,UPI,GPay,2495,Food,No,PMJDY,Failed,Mobile,5G
+T0515,2025-01-14,Bihar,Chennai,U1514,Female,25-34,SBI,Savings,BillPay,UPI,Paytm,9046,Bills,Yes,NULL,Failed,Mobile,4G
+T0516,2025-02-12,Tamil Nadu,Jaipur,U1515,Female,45+,SBI,Current,P2P,UPI,PhonePe,8015,Food,Yes,NULL,Success,Desktop,5G
+T0517,2025-03-31,West Bengal,Bangalore,U1516,Female,45+,SBI,Savings,BillPay,UPI,PhonePe,1966,Bills,No,NULL,Success,Desktop,3G
+T0518,2025-01-10,Karnataka,Jaipur,U1517,Male,35-44,PNB,Current,BillPay,UPI,BHIM,2311,Food,No,Subsidy,Success,Mobile,5G
+T0519,2025-02-02,Maharashtra,Jaipur,U1518,Female,45+,SBI,Current,BillPay,UPI,PhonePe,1447,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0520,2025-02-21,Delhi,Patna,U1519,Female,45+,SBI,JanDhan,BillPay,UPI,PhonePe,5250,Transfer,No,Subsidy,Failed,Desktop,5G
+T0521,2025-01-06,Maharashtra,Bangalore,U1520,Male,35-44,PNB,Current,BillPay,UPI,GPay,2707,Shopping,Yes,NULL,Failed,Desktop,4G
+T0522,2025-01-10,Delhi,Bangalore,U1521,Male,18-24,HDFC,Savings,P2P,UPI,Paytm,3977,Bills,Yes,PMJDY,Success,Desktop,5G
+T0523,2025-01-25,Karnataka,Patna,U1522,Female,45+,PNB,JanDhan,BillPay,UPI,PhonePe,2798,Electronics,Yes,Subsidy,Success,Desktop,Broadband
+T0524,2025-03-07,West Bengal,Mumbai,U1523,Male,25-34,SBI,Current,BillPay,UPI,BHIM,245,Bills,Yes,PMJDY,Failed,Mobile,4G
+T0525,2025-02-19,Delhi,Kolkata,U1524,Male,25-34,Axis,Savings,P2P,UPI,Paytm,3317,Transfer,Yes,PMJDY,Failed,Desktop,Broadband
+T0526,2025-01-26,Tamil Nadu,Patna,U1525,Male,18-24,Axis,Savings,BillPay,UPI,BHIM,6605,Shopping,Yes,PMJDY,Success,Mobile,3G
+T0527,2025-02-11,Rajasthan,Patna,U1526,Male,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,3412,Bills,No,PMJDY,Success,Desktop,3G
+T0528,2025-02-15,West Bengal,Chennai,U1527,Male,35-44,SBI,Current,P2P,UPI,GPay,5540,Bills,No,NULL,Failed,Mobile,5G
+T0529,2025-01-31,Tamil Nadu,Ahmedabad,U1528,Male,25-34,HDFC,JanDhan,P2P,UPI,BHIM,4340,Food,Yes,NULL,Success,Desktop,4G
+T0530,2025-01-06,Delhi,Kolkata,U1529,Male,35-44,PNB,JanDhan,P2P,UPI,BHIM,3722,Bills,Yes,Subsidy,Failed,Mobile,5G
+T0531,2025-03-16,Karnataka,Ahmedabad,U1530,Male,35-44,HDFC,JanDhan,P2M,UPI,BHIM,4037,Shopping,No,NULL,Failed,Desktop,5G
+T0532,2025-03-10,Karnataka,Ahmedabad,U1531,Male,45+,ICICI,Current,P2M,UPI,Paytm,5133,Food,Yes,PMJDY,Success,Mobile,4G
+T0533,2025-01-10,Maharashtra,Bangalore,U1532,Female,18-24,Axis,JanDhan,P2P,UPI,Paytm,2401,Shopping,No,PMJDY,Failed,Desktop,3G
+T0534,2025-03-15,Delhi,Kolkata,U1533,Male,18-24,PNB,Current,P2P,UPI,Paytm,6585,Food,No,NULL,Failed,Desktop,Broadband
+T0535,2025-01-14,Tamil Nadu,Delhi,U1534,Male,18-24,Axis,Current,BillPay,UPI,PhonePe,6211,Transfer,Yes,Subsidy,Failed,Desktop,4G
+T0536,2025-03-02,Maharashtra,Ahmedabad,U1535,Male,18-24,PNB,JanDhan,P2P,UPI,BHIM,4168,Transfer,No,NULL,Failed,Mobile,5G
+T0537,2025-02-07,Karnataka,Jaipur,U1536,Male,35-44,HDFC,Savings,BillPay,UPI,PhonePe,7100,Food,No,NULL,Success,Desktop,4G
+T0538,2025-01-05,Rajasthan,Kolkata,U1537,Female,25-34,PNB,Savings,P2P,UPI,Paytm,1357,Shopping,No,NULL,Failed,Desktop,3G
+T0539,2025-03-26,Karnataka,Patna,U1538,Female,35-44,HDFC,JanDhan,BillPay,UPI,PhonePe,9055,Transfer,No,NULL,Success,Mobile,4G
+T0540,2025-03-24,Delhi,Bangalore,U1539,Female,25-34,SBI,JanDhan,P2M,UPI,PhonePe,3454,Transfer,No,Subsidy,Failed,Desktop,4G
+T0541,2025-01-12,Delhi,Jaipur,U1540,Male,35-44,HDFC,Current,P2M,UPI,BHIM,5640,Electronics,No,PMJDY,Success,Desktop,3G
+T0542,2025-01-26,Karnataka,Mumbai,U1541,Male,45+,SBI,Savings,P2M,UPI,PhonePe,4780,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0543,2025-03-23,Rajasthan,Kolkata,U1542,Male,35-44,HDFC,Savings,P2M,UPI,PhonePe,9147,Food,Yes,Subsidy,Success,Desktop,5G
+T0544,2025-03-29,Gujarat,Bangalore,U1543,Female,18-24,SBI,JanDhan,P2P,UPI,GPay,8386,Shopping,Yes,NULL,Failed,Desktop,3G
+T0545,2025-03-03,West Bengal,Mumbai,U1544,Female,18-24,PNB,Savings,BillPay,UPI,GPay,6159,Shopping,No,PMJDY,Failed,Mobile,3G
+T0546,2025-03-21,Delhi,Mumbai,U1545,Female,35-44,Axis,JanDhan,P2M,UPI,BHIM,2205,Bills,Yes,PMJDY,Success,Mobile,Broadband
+T0547,2025-03-03,Karnataka,Kolkata,U1546,Female,25-34,Axis,Savings,P2P,UPI,PhonePe,5316,Electronics,Yes,Subsidy,Success,Desktop,Broadband
+T0548,2025-03-06,Maharashtra,Bangalore,U1547,Female,35-44,HDFC,Current,P2M,UPI,GPay,2749,Electronics,Yes,PMJDY,Failed,Desktop,4G
+T0549,2025-03-17,Gujarat,Bangalore,U1548,Female,18-24,SBI,Savings,P2M,UPI,PhonePe,2616,Electronics,Yes,Subsidy,Failed,Desktop,3G
+T0550,2025-03-26,Tamil Nadu,Delhi,U1549,Male,18-24,HDFC,JanDhan,P2M,UPI,BHIM,7736,Transfer,No,Subsidy,Failed,Mobile,4G
+T0551,2025-01-10,Bihar,Chennai,U1550,Male,35-44,ICICI,JanDhan,BillPay,UPI,PhonePe,7848,Electronics,No,PMJDY,Failed,Mobile,5G
+T0552,2025-01-02,Delhi,Delhi,U1551,Female,18-24,SBI,Savings,BillPay,UPI,PhonePe,4007,Bills,Yes,PMJDY,Failed,Desktop,3G
+T0553,2025-02-26,Rajasthan,Chennai,U1552,Male,25-34,SBI,JanDhan,BillPay,UPI,BHIM,2947,Bills,No,Subsidy,Failed,Desktop,4G
+T0554,2025-01-03,Delhi,Patna,U1553,Male,25-34,Axis,Current,P2M,UPI,GPay,6871,Shopping,No,Subsidy,Success,Desktop,4G
+T0555,2025-03-14,Rajasthan,Jaipur,U1554,Female,45+,HDFC,Savings,BillPay,UPI,GPay,9252,Bills,Yes,Subsidy,Success,Mobile,3G
+T0556,2025-03-28,Bihar,Delhi,U1555,Male,45+,Axis,Current,P2M,UPI,Paytm,3705,Transfer,No,Subsidy,Success,Mobile,4G
+T0557,2025-01-17,Gujarat,Delhi,U1556,Female,35-44,HDFC,JanDhan,P2P,UPI,Paytm,8291,Bills,No,Subsidy,Success,Desktop,Broadband
+T0558,2025-02-24,Gujarat,Bangalore,U1557,Female,18-24,Axis,Current,P2M,UPI,Paytm,7611,Shopping,Yes,NULL,Success,Mobile,4G
+T0559,2025-02-04,West Bengal,Bangalore,U1558,Male,35-44,SBI,JanDhan,P2P,UPI,GPay,5837,Transfer,Yes,NULL,Success,Desktop,3G
+T0560,2025-03-27,Maharashtra,Kolkata,U1559,Female,25-34,Axis,Current,P2M,UPI,Paytm,1294,Transfer,No,PMJDY,Success,Mobile,5G
+T0561,2025-02-16,Tamil Nadu,Patna,U1560,Male,35-44,HDFC,JanDhan,P2P,UPI,GPay,7425,Bills,Yes,PMJDY,Failed,Desktop,Broadband
+T0562,2025-03-22,Tamil Nadu,Delhi,U1561,Male,35-44,HDFC,Current,BillPay,UPI,Paytm,9748,Shopping,Yes,PMJDY,Success,Mobile,Broadband
+T0563,2025-03-17,Delhi,Kolkata,U1562,Male,25-34,Axis,Savings,BillPay,UPI,PhonePe,9565,Food,Yes,NULL,Success,Mobile,4G
+T0564,2025-01-28,Rajasthan,Ahmedabad,U1563,Male,18-24,ICICI,JanDhan,P2M,UPI,Paytm,9679,Transfer,No,PMJDY,Failed,Mobile,Broadband
+T0565,2025-03-20,Tamil Nadu,Jaipur,U1564,Female,35-44,ICICI,Current,P2M,UPI,Paytm,7728,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0566,2025-03-06,Maharashtra,Chennai,U1565,Female,25-34,Axis,Savings,P2P,UPI,Paytm,2426,Food,No,PMJDY,Failed,Desktop,Broadband
+T0567,2025-01-11,Rajasthan,Chennai,U1566,Male,18-24,ICICI,JanDhan,P2M,UPI,Paytm,5761,Shopping,Yes,PMJDY,Success,Mobile,3G
+T0568,2025-01-30,Delhi,Chennai,U1567,Male,25-34,PNB,Savings,BillPay,UPI,GPay,8142,Bills,Yes,NULL,Success,Mobile,3G
+T0569,2025-01-30,Bihar,Kolkata,U1568,Male,45+,SBI,Current,BillPay,UPI,Paytm,3773,Bills,No,PMJDY,Failed,Mobile,3G
+T0570,2025-03-22,Gujarat,Bangalore,U1569,Female,45+,Axis,Savings,P2M,UPI,BHIM,2668,Bills,No,PMJDY,Success,Mobile,3G
+T0571,2025-03-22,Gujarat,Mumbai,U1570,Female,18-24,HDFC,Savings,P2P,UPI,BHIM,3260,Shopping,Yes,Subsidy,Failed,Mobile,4G
+T0572,2025-01-15,Tamil Nadu,Delhi,U1571,Female,18-24,PNB,JanDhan,P2M,UPI,Paytm,1417,Transfer,Yes,NULL,Failed,Mobile,4G
+T0573,2025-01-01,Karnataka,Jaipur,U1572,Female,45+,ICICI,Savings,P2P,UPI,BHIM,6279,Shopping,No,NULL,Success,Desktop,Broadband
+T0574,2025-04-01,Tamil Nadu,Jaipur,U1573,Male,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,5037,Transfer,Yes,NULL,Failed,Desktop,4G
+T0575,2025-03-09,Rajasthan,Kolkata,U1574,Female,18-24,Axis,Current,P2M,UPI,GPay,1977,Electronics,No,NULL,Failed,Mobile,4G
+T0576,2025-01-12,Rajasthan,Delhi,U1575,Female,18-24,Axis,Current,P2P,UPI,BHIM,3730,Shopping,Yes,NULL,Success,Mobile,4G
+T0577,2025-02-22,West Bengal,Kolkata,U1576,Female,25-34,SBI,Savings,P2M,UPI,Paytm,9556,Electronics,Yes,NULL,Failed,Desktop,Broadband
+T0578,2025-03-03,Karnataka,Kolkata,U1577,Female,25-34,ICICI,Current,P2M,UPI,BHIM,5522,Food,Yes,NULL,Failed,Mobile,3G
+T0579,2025-02-28,Bihar,Jaipur,U1578,Female,18-24,Axis,JanDhan,P2M,UPI,GPay,1240,Transfer,Yes,Subsidy,Success,Desktop,3G
+T0580,2025-01-17,Rajasthan,Ahmedabad,U1579,Female,35-44,HDFC,JanDhan,BillPay,UPI,Paytm,9039,Shopping,Yes,NULL,Failed,Mobile,5G
+T0581,2025-03-16,Gujarat,Ahmedabad,U1580,Female,18-24,SBI,Current,BillPay,UPI,PhonePe,2247,Food,No,PMJDY,Failed,Desktop,3G
+T0582,2025-01-22,Karnataka,Kolkata,U1581,Male,25-34,Axis,Current,P2M,UPI,Paytm,2225,Shopping,Yes,Subsidy,Success,Mobile,5G
+T0583,2025-01-18,Gujarat,Ahmedabad,U1582,Male,18-24,HDFC,JanDhan,BillPay,UPI,GPay,7801,Food,Yes,PMJDY,Success,Desktop,4G
+T0584,2025-03-08,Gujarat,Mumbai,U1583,Female,45+,PNB,JanDhan,P2P,UPI,Paytm,6585,Shopping,No,NULL,Success,Mobile,4G
+T0585,2025-03-27,Tamil Nadu,Kolkata,U1584,Male,25-34,PNB,Current,P2P,UPI,PhonePe,8747,Bills,Yes,NULL,Success,Mobile,Broadband
+T0586,2025-01-15,Rajasthan,Chennai,U1585,Female,25-34,Axis,Savings,P2M,UPI,Paytm,3724,Food,Yes,PMJDY,Failed,Mobile,5G
+T0587,2025-02-05,Bihar,Mumbai,U1586,Male,45+,ICICI,Current,P2M,UPI,Paytm,2687,Food,No,Subsidy,Failed,Desktop,4G
+T0588,2025-03-16,Karnataka,Mumbai,U1587,Male,25-34,HDFC,Savings,P2M,UPI,Paytm,5191,Bills,Yes,PMJDY,Failed,Mobile,3G
+T0589,2025-03-06,West Bengal,Kolkata,U1588,Male,35-44,PNB,Savings,P2P,UPI,GPay,9589,Bills,Yes,PMJDY,Failed,Mobile,3G
+T0590,2025-02-25,Tamil Nadu,Ahmedabad,U1589,Male,35-44,PNB,Savings,BillPay,UPI,Paytm,754,Electronics,Yes,PMJDY,Failed,Mobile,5G
+T0591,2025-01-25,Rajasthan,Delhi,U1590,Female,18-24,HDFC,Current,P2P,UPI,GPay,3002,Electronics,No,Subsidy,Success,Mobile,3G
+T0592,2025-02-17,Rajasthan,Bangalore,U1591,Female,25-34,SBI,JanDhan,BillPay,UPI,PhonePe,6028,Food,No,PMJDY,Failed,Mobile,Broadband
+T0593,2025-02-28,Bihar,Mumbai,U1592,Male,18-24,HDFC,Savings,P2P,UPI,BHIM,8806,Transfer,No,Subsidy,Failed,Mobile,4G
+T0594,2025-02-09,West Bengal,Bangalore,U1593,Female,45+,SBI,Current,BillPay,UPI,GPay,5900,Electronics,Yes,NULL,Success,Mobile,5G
+T0595,2025-03-27,Delhi,Patna,U1594,Male,35-44,HDFC,Savings,BillPay,UPI,GPay,648,Food,No,Subsidy,Failed,Mobile,Broadband
+T0596,2025-02-26,Tamil Nadu,Mumbai,U1595,Female,35-44,HDFC,Current,P2M,UPI,PhonePe,9278,Food,Yes,Subsidy,Success,Desktop,Broadband
+T0597,2025-02-24,Tamil Nadu,Patna,U1596,Male,45+,HDFC,Current,P2P,UPI,PhonePe,8237,Bills,Yes,NULL,Failed,Desktop,5G
+T0598,2025-03-28,West Bengal,Chennai,U1597,Female,35-44,HDFC,Savings,P2P,UPI,PhonePe,8173,Bills,No,Subsidy,Failed,Mobile,3G
+T0599,2025-01-24,Karnataka,Kolkata,U1598,Male,25-34,SBI,JanDhan,P2P,UPI,GPay,7607,Shopping,Yes,NULL,Failed,Mobile,4G
+T0600,2025-01-12,Delhi,Mumbai,U1599,Female,18-24,Axis,JanDhan,P2M,UPI,PhonePe,7610,Electronics,Yes,PMJDY,Success,Mobile,5G
+T0601,2025-03-12,Delhi,Ahmedabad,U1600,Female,45+,HDFC,Current,P2P,UPI,PhonePe,3508,Bills,No,NULL,Failed,Mobile,Broadband
+T0602,2025-01-21,West Bengal,Delhi,U1601,Female,25-34,SBI,JanDhan,P2P,UPI,GPay,1360,Electronics,Yes,NULL,Success,Mobile,3G
+T0603,2025-03-02,Maharashtra,Mumbai,U1602,Male,45+,SBI,JanDhan,P2P,UPI,GPay,2172,Food,Yes,PMJDY,Success,Desktop,5G
+T0604,2025-02-20,Tamil Nadu,Mumbai,U1603,Female,25-34,ICICI,Savings,P2P,UPI,PhonePe,6063,Shopping,Yes,NULL,Failed,Desktop,5G
+T0605,2025-02-07,West Bengal,Bangalore,U1604,Female,45+,PNB,JanDhan,P2P,UPI,BHIM,8749,Electronics,Yes,NULL,Success,Mobile,5G
+T0606,2025-01-07,Maharashtra,Delhi,U1605,Male,45+,SBI,Savings,BillPay,UPI,GPay,498,Food,No,PMJDY,Failed,Mobile,Broadband
+T0607,2025-01-06,Gujarat,Mumbai,U1606,Male,45+,PNB,JanDhan,P2P,UPI,BHIM,3913,Transfer,Yes,Subsidy,Failed,Desktop,Broadband
+T0608,2025-03-17,Delhi,Bangalore,U1607,Female,35-44,ICICI,Current,BillPay,UPI,Paytm,2978,Bills,Yes,PMJDY,Failed,Mobile,4G
+T0609,2025-03-22,Rajasthan,Jaipur,U1608,Female,35-44,PNB,JanDhan,P2P,UPI,Paytm,6109,Electronics,Yes,NULL,Failed,Desktop,5G
+T0610,2025-01-06,Rajasthan,Ahmedabad,U1609,Female,25-34,SBI,Current,P2P,UPI,BHIM,6223,Bills,No,Subsidy,Success,Mobile,Broadband
+T0611,2025-02-05,Gujarat,Chennai,U1610,Male,18-24,ICICI,JanDhan,P2M,UPI,BHIM,5684,Food,No,NULL,Failed,Desktop,4G
+T0612,2025-02-06,Tamil Nadu,Jaipur,U1611,Female,25-34,PNB,Current,P2P,UPI,Paytm,2694,Transfer,Yes,PMJDY,Success,Desktop,3G
+T0613,2025-02-16,Rajasthan,Patna,U1612,Male,35-44,PNB,JanDhan,P2P,UPI,PhonePe,5985,Bills,Yes,NULL,Success,Desktop,4G
+T0614,2025-02-24,Delhi,Bangalore,U1613,Male,35-44,PNB,Savings,BillPay,UPI,PhonePe,789,Transfer,Yes,Subsidy,Failed,Desktop,4G
+T0615,2025-02-02,Maharashtra,Jaipur,U1614,Male,35-44,SBI,Savings,P2M,UPI,Paytm,7979,Electronics,No,PMJDY,Failed,Desktop,5G
+T0616,2025-02-04,West Bengal,Ahmedabad,U1615,Male,45+,PNB,Current,P2P,UPI,Paytm,525,Food,Yes,Subsidy,Failed,Mobile,Broadband
+T0617,2025-01-01,Gujarat,Kolkata,U1616,Female,18-24,ICICI,Current,P2P,UPI,Paytm,7671,Transfer,Yes,Subsidy,Failed,Desktop,3G
+T0618,2025-01-27,Bihar,Chennai,U1617,Female,35-44,SBI,Current,BillPay,UPI,GPay,194,Transfer,No,PMJDY,Failed,Mobile,4G
+T0619,2025-01-19,Rajasthan,Ahmedabad,U1618,Female,18-24,PNB,Savings,P2P,UPI,PhonePe,6166,Transfer,Yes,Subsidy,Success,Desktop,3G
+T0620,2025-01-22,Karnataka,Patna,U1619,Female,45+,Axis,Savings,P2M,UPI,Paytm,8889,Bills,No,NULL,Success,Desktop,Broadband
+T0621,2025-02-15,Karnataka,Mumbai,U1620,Female,25-34,HDFC,Savings,P2P,UPI,PhonePe,2869,Transfer,No,Subsidy,Success,Mobile,4G
+T0622,2025-01-02,Karnataka,Patna,U1621,Male,45+,HDFC,Savings,P2P,UPI,GPay,8277,Food,Yes,Subsidy,Success,Mobile,5G
+T0623,2025-02-19,Bihar,Patna,U1622,Male,18-24,SBI,JanDhan,P2P,UPI,Paytm,1486,Transfer,No,Subsidy,Failed,Desktop,3G
+T0624,2025-01-20,Tamil Nadu,Patna,U1623,Male,45+,ICICI,Savings,P2M,UPI,Paytm,3943,Food,No,Subsidy,Failed,Mobile,5G
+T0625,2025-03-11,Karnataka,Delhi,U1624,Female,18-24,PNB,JanDhan,P2M,UPI,PhonePe,1909,Shopping,Yes,PMJDY,Success,Desktop,4G
+T0626,2025-02-05,Gujarat,Ahmedabad,U1625,Female,45+,HDFC,Savings,BillPay,UPI,PhonePe,5268,Electronics,Yes,Subsidy,Success,Desktop,Broadband
+T0627,2025-01-02,Maharashtra,Kolkata,U1626,Male,18-24,SBI,Savings,P2M,UPI,BHIM,7073,Electronics,No,NULL,Success,Desktop,3G
+T0628,2025-03-01,West Bengal,Bangalore,U1627,Female,25-34,HDFC,JanDhan,BillPay,UPI,PhonePe,8004,Bills,No,Subsidy,Failed,Mobile,3G
+T0629,2025-03-15,Bihar,Kolkata,U1628,Female,35-44,Axis,JanDhan,P2P,UPI,GPay,1952,Transfer,No,Subsidy,Success,Desktop,4G
+T0630,2025-01-08,Rajasthan,Bangalore,U1629,Female,18-24,HDFC,JanDhan,P2P,UPI,GPay,5995,Transfer,Yes,NULL,Success,Desktop,Broadband
+T0631,2025-01-29,Maharashtra,Bangalore,U1630,Female,45+,ICICI,Current,P2P,UPI,Paytm,1342,Transfer,No,PMJDY,Failed,Mobile,5G
+T0632,2025-01-09,Tamil Nadu,Delhi,U1631,Female,35-44,Axis,Current,BillPay,UPI,Paytm,6267,Food,Yes,NULL,Success,Mobile,4G
+T0633,2025-01-28,Bihar,Kolkata,U1632,Female,45+,HDFC,JanDhan,BillPay,UPI,GPay,2406,Food,No,Subsidy,Failed,Mobile,4G
+T0634,2025-03-29,Gujarat,Bangalore,U1633,Female,18-24,Axis,Savings,BillPay,UPI,BHIM,8553,Shopping,Yes,Subsidy,Failed,Mobile,Broadband
+T0635,2025-03-07,Karnataka,Mumbai,U1634,Male,25-34,HDFC,Savings,P2M,UPI,GPay,584,Food,No,NULL,Failed,Mobile,5G
+T0636,2025-03-07,West Bengal,Delhi,U1635,Male,35-44,PNB,Current,P2P,UPI,Paytm,3781,Transfer,Yes,NULL,Success,Desktop,Broadband
+T0637,2025-02-28,West Bengal,Bangalore,U1636,Female,25-34,SBI,Current,P2M,UPI,PhonePe,9835,Food,Yes,PMJDY,Success,Mobile,4G
+T0638,2025-03-29,Tamil Nadu,Bangalore,U1637,Female,18-24,HDFC,Current,BillPay,UPI,Paytm,779,Electronics,Yes,NULL,Failed,Mobile,5G
+T0639,2025-01-11,Karnataka,Chennai,U1638,Male,25-34,PNB,Savings,P2P,UPI,PhonePe,2201,Bills,Yes,NULL,Success,Mobile,5G
+T0640,2025-02-11,Maharashtra,Chennai,U1639,Female,45+,Axis,Current,P2M,UPI,BHIM,1867,Transfer,Yes,Subsidy,Failed,Desktop,5G
+T0641,2025-02-02,Karnataka,Mumbai,U1640,Male,18-24,HDFC,Savings,P2P,UPI,BHIM,4953,Bills,Yes,NULL,Success,Desktop,5G
+T0642,2025-02-03,Tamil Nadu,Patna,U1641,Female,45+,SBI,Current,P2P,UPI,GPay,6744,Transfer,Yes,PMJDY,Success,Desktop,4G
+T0643,2025-01-11,Bihar,Jaipur,U1642,Male,25-34,HDFC,JanDhan,P2P,UPI,Paytm,6517,Shopping,No,Subsidy,Failed,Mobile,5G
+T0644,2025-01-22,Bihar,Delhi,U1643,Male,45+,HDFC,JanDhan,P2M,UPI,Paytm,7490,Shopping,Yes,PMJDY,Failed,Desktop,5G
+T0645,2025-01-04,Bihar,Kolkata,U1644,Female,45+,HDFC,JanDhan,P2M,UPI,PhonePe,8212,Bills,No,PMJDY,Failed,Mobile,5G
+T0646,2025-01-22,Karnataka,Ahmedabad,U1645,Female,18-24,Axis,Savings,P2P,UPI,PhonePe,8907,Bills,No,Subsidy,Success,Mobile,3G
+T0647,2025-03-25,Bihar,Ahmedabad,U1646,Female,18-24,HDFC,Savings,P2P,UPI,GPay,5803,Electronics,Yes,PMJDY,Success,Desktop,4G
+T0648,2025-01-06,Gujarat,Patna,U1647,Male,45+,Axis,JanDhan,P2P,UPI,BHIM,5565,Food,No,PMJDY,Success,Mobile,3G
+T0649,2025-03-03,Karnataka,Patna,U1648,Male,35-44,SBI,Current,P2M,UPI,BHIM,3560,Transfer,No,Subsidy,Success,Mobile,5G
+T0650,2025-01-07,Tamil Nadu,Mumbai,U1649,Male,18-24,Axis,JanDhan,P2P,UPI,BHIM,4450,Shopping,Yes,PMJDY,Success,Desktop,Broadband
+T0651,2025-02-10,Tamil Nadu,Ahmedabad,U1650,Male,45+,PNB,JanDhan,BillPay,UPI,GPay,3440,Shopping,Yes,Subsidy,Failed,Mobile,4G
+T0652,2025-01-01,Karnataka,Bangalore,U1651,Male,35-44,Axis,Savings,BillPay,UPI,Paytm,8917,Bills,No,PMJDY,Success,Mobile,5G
+T0653,2025-03-29,Tamil Nadu,Jaipur,U1652,Male,45+,PNB,Current,BillPay,UPI,GPay,6510,Electronics,Yes,NULL,Failed,Mobile,3G
+T0654,2025-02-08,West Bengal,Chennai,U1653,Female,25-34,HDFC,JanDhan,P2M,UPI,BHIM,818,Bills,No,Subsidy,Success,Desktop,4G
+T0655,2025-02-12,Tamil Nadu,Bangalore,U1654,Male,18-24,PNB,Savings,P2M,UPI,GPay,7251,Food,Yes,NULL,Success,Mobile,4G
+T0656,2025-02-26,Karnataka,Chennai,U1655,Male,45+,Axis,JanDhan,BillPay,UPI,BHIM,6029,Transfer,Yes,NULL,Failed,Mobile,5G
+T0657,2025-01-05,West Bengal,Delhi,U1656,Male,45+,PNB,JanDhan,P2M,UPI,GPay,1479,Food,No,Subsidy,Failed,Desktop,3G
+T0658,2025-03-29,Bihar,Patna,U1657,Female,35-44,ICICI,Savings,P2M,UPI,PhonePe,9135,Bills,Yes,PMJDY,Failed,Desktop,4G
+T0659,2025-03-03,Bihar,Mumbai,U1658,Male,35-44,PNB,Current,BillPay,UPI,PhonePe,5825,Electronics,Yes,Subsidy,Failed,Desktop,5G
+T0660,2025-02-06,Maharashtra,Patna,U1659,Female,18-24,HDFC,JanDhan,BillPay,UPI,PhonePe,7612,Food,Yes,Subsidy,Success,Desktop,Broadband
+T0661,2025-01-10,Maharashtra,Mumbai,U1660,Female,35-44,Axis,Savings,BillPay,UPI,GPay,9486,Shopping,Yes,Subsidy,Success,Mobile,Broadband
+T0662,2025-02-22,Karnataka,Ahmedabad,U1661,Female,35-44,PNB,Current,P2M,UPI,BHIM,4404,Electronics,Yes,Subsidy,Failed,Desktop,3G
+T0663,2025-03-07,Delhi,Chennai,U1662,Female,35-44,PNB,Current,BillPay,UPI,Paytm,147,Transfer,Yes,NULL,Success,Mobile,5G
+T0664,2025-02-09,Delhi,Bangalore,U1663,Male,45+,HDFC,Savings,BillPay,UPI,PhonePe,5410,Bills,No,Subsidy,Failed,Desktop,5G
+T0665,2025-03-26,Bihar,Bangalore,U1664,Female,45+,PNB,Savings,BillPay,UPI,PhonePe,7055,Transfer,No,NULL,Failed,Mobile,Broadband
+T0666,2025-01-25,Gujarat,Patna,U1665,Female,25-34,ICICI,JanDhan,BillPay,UPI,GPay,7282,Food,Yes,Subsidy,Failed,Desktop,Broadband
+T0667,2025-03-12,Gujarat,Delhi,U1666,Female,25-34,ICICI,Savings,P2M,UPI,BHIM,8562,Food,No,NULL,Success,Mobile,Broadband
+T0668,2025-02-08,Maharashtra,Mumbai,U1667,Male,18-24,PNB,JanDhan,BillPay,UPI,Paytm,3846,Transfer,Yes,Subsidy,Success,Mobile,4G
+T0669,2025-01-28,Delhi,Chennai,U1668,Female,35-44,Axis,Savings,P2M,UPI,BHIM,9481,Bills,No,PMJDY,Failed,Desktop,5G
+T0670,2025-02-09,Tamil Nadu,Patna,U1669,Male,25-34,PNB,JanDhan,P2M,UPI,GPay,3871,Bills,Yes,NULL,Failed,Mobile,4G
+T0671,2025-03-23,Rajasthan,Mumbai,U1670,Male,45+,SBI,Current,BillPay,UPI,Paytm,8476,Food,Yes,NULL,Failed,Mobile,Broadband
+T0672,2025-03-05,Maharashtra,Delhi,U1671,Female,25-34,HDFC,JanDhan,BillPay,UPI,PhonePe,4943,Food,Yes,PMJDY,Success,Mobile,4G
+T0673,2025-03-10,Rajasthan,Jaipur,U1672,Female,35-44,PNB,Current,P2P,UPI,Paytm,4501,Bills,Yes,NULL,Success,Mobile,4G
+T0674,2025-03-29,Tamil Nadu,Chennai,U1673,Male,18-24,SBI,Current,BillPay,UPI,Paytm,5400,Shopping,Yes,Subsidy,Failed,Mobile,5G
+T0675,2025-03-30,Tamil Nadu,Jaipur,U1674,Male,25-34,Axis,JanDhan,P2M,UPI,BHIM,3983,Food,Yes,PMJDY,Failed,Mobile,3G
+T0676,2025-03-04,Tamil Nadu,Chennai,U1675,Female,18-24,HDFC,JanDhan,BillPay,UPI,BHIM,338,Food,No,NULL,Failed,Mobile,4G
+T0677,2025-02-27,Maharashtra,Patna,U1676,Female,18-24,Axis,JanDhan,P2P,UPI,Paytm,4235,Electronics,No,NULL,Success,Desktop,Broadband
+T0678,2025-03-09,Gujarat,Patna,U1677,Female,45+,ICICI,Savings,P2M,UPI,Paytm,1396,Shopping,No,Subsidy,Failed,Mobile,4G
+T0679,2025-02-18,Maharashtra,Patna,U1678,Male,35-44,ICICI,JanDhan,BillPay,UPI,BHIM,7214,Bills,Yes,Subsidy,Success,Desktop,Broadband
+T0680,2025-02-06,Tamil Nadu,Jaipur,U1679,Male,35-44,Axis,Current,BillPay,UPI,BHIM,9667,Electronics,No,PMJDY,Success,Desktop,5G
+T0681,2025-01-07,Karnataka,Mumbai,U1680,Female,45+,ICICI,JanDhan,P2M,UPI,GPay,3484,Shopping,No,Subsidy,Success,Desktop,Broadband
+T0682,2025-04-01,Karnataka,Ahmedabad,U1681,Female,25-34,ICICI,JanDhan,BillPay,UPI,GPay,8765,Shopping,No,Subsidy,Failed,Mobile,Broadband
+T0683,2025-02-17,Gujarat,Mumbai,U1682,Female,18-24,HDFC,Savings,P2P,UPI,GPay,1225,Bills,No,PMJDY,Success,Mobile,3G
+T0684,2025-01-19,Bihar,Chennai,U1683,Male,25-34,ICICI,JanDhan,P2P,UPI,PhonePe,3446,Food,Yes,Subsidy,Failed,Mobile,3G
+T0685,2025-03-05,Maharashtra,Kolkata,U1684,Male,35-44,Axis,JanDhan,P2P,UPI,PhonePe,9724,Food,Yes,Subsidy,Failed,Mobile,Broadband
+T0686,2025-01-09,Gujarat,Mumbai,U1685,Female,35-44,SBI,JanDhan,BillPay,UPI,PhonePe,7318,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0687,2025-01-18,Bihar,Delhi,U1686,Female,25-34,ICICI,JanDhan,BillPay,UPI,PhonePe,1050,Shopping,No,Subsidy,Failed,Desktop,3G
+T0688,2025-03-22,Bihar,Chennai,U1687,Female,25-34,Axis,Current,BillPay,UPI,Paytm,2711,Bills,Yes,Subsidy,Failed,Desktop,3G
+T0689,2025-02-03,Bihar,Delhi,U1688,Male,25-34,Axis,JanDhan,P2P,UPI,GPay,2783,Food,No,PMJDY,Failed,Desktop,3G
+T0690,2025-03-19,Karnataka,Jaipur,U1689,Male,18-24,PNB,JanDhan,BillPay,UPI,Paytm,403,Electronics,No,NULL,Failed,Desktop,4G
+T0691,2025-01-26,Bihar,Jaipur,U1690,Female,18-24,PNB,Savings,P2P,UPI,PhonePe,3365,Electronics,Yes,NULL,Failed,Desktop,5G
+T0692,2025-03-14,Maharashtra,Kolkata,U1691,Male,35-44,Axis,JanDhan,P2M,UPI,PhonePe,5705,Bills,No,PMJDY,Failed,Mobile,Broadband
+T0693,2025-03-06,West Bengal,Mumbai,U1692,Male,45+,SBI,Savings,P2M,UPI,PhonePe,7448,Food,No,Subsidy,Success,Desktop,5G
+T0694,2025-03-30,West Bengal,Chennai,U1693,Female,35-44,HDFC,Current,BillPay,UPI,PhonePe,4906,Food,Yes,Subsidy,Failed,Mobile,4G
+T0695,2025-02-07,Delhi,Chennai,U1694,Male,35-44,Axis,Current,P2M,UPI,Paytm,2508,Food,No,Subsidy,Success,Mobile,Broadband
+T0696,2025-03-15,Bihar,Ahmedabad,U1695,Female,45+,SBI,Current,BillPay,UPI,PhonePe,633,Bills,Yes,NULL,Success,Desktop,5G
+T0697,2025-01-19,Delhi,Patna,U1696,Female,45+,HDFC,JanDhan,P2P,UPI,BHIM,7879,Bills,No,PMJDY,Failed,Mobile,3G
+T0698,2025-01-29,Bihar,Bangalore,U1697,Female,25-34,ICICI,Current,BillPay,UPI,PhonePe,5833,Electronics,Yes,Subsidy,Success,Mobile,4G
+T0699,2025-02-07,Bihar,Jaipur,U1698,Male,45+,Axis,JanDhan,P2M,UPI,GPay,4391,Bills,No,Subsidy,Success,Mobile,4G
+T0700,2025-03-04,Delhi,Chennai,U1699,Male,18-24,SBI,JanDhan,P2M,UPI,BHIM,7165,Electronics,Yes,Subsidy,Failed,Desktop,Broadband
+T0701,2025-02-09,Bihar,Bangalore,U1700,Female,35-44,SBI,Current,P2M,UPI,PhonePe,3002,Food,Yes,PMJDY,Success,Mobile,4G
+T0702,2025-03-13,Karnataka,Patna,U1701,Female,45+,SBI,Savings,BillPay,UPI,PhonePe,9188,Shopping,No,PMJDY,Failed,Mobile,4G
+T0703,2025-02-16,West Bengal,Delhi,U1702,Male,35-44,HDFC,Savings,BillPay,UPI,BHIM,8373,Bills,Yes,Subsidy,Success,Desktop,4G
+T0704,2025-02-25,Maharashtra,Chennai,U1703,Male,35-44,PNB,Current,P2P,UPI,GPay,6832,Bills,Yes,NULL,Success,Desktop,Broadband
+T0705,2025-03-24,West Bengal,Jaipur,U1704,Female,45+,PNB,JanDhan,P2M,UPI,PhonePe,2667,Transfer,Yes,Subsidy,Success,Mobile,Broadband
+T0706,2025-02-11,West Bengal,Bangalore,U1705,Female,25-34,Axis,Savings,P2P,UPI,BHIM,4939,Transfer,Yes,PMJDY,Success,Mobile,5G
+T0707,2025-03-08,Karnataka,Mumbai,U1706,Male,18-24,SBI,Savings,P2P,UPI,BHIM,3303,Transfer,Yes,PMJDY,Failed,Desktop,4G
+T0708,2025-01-06,Maharashtra,Delhi,U1707,Female,45+,ICICI,JanDhan,P2M,UPI,BHIM,9926,Transfer,No,NULL,Failed,Mobile,5G
+T0709,2025-03-18,Maharashtra,Jaipur,U1708,Female,18-24,PNB,Current,P2M,UPI,BHIM,7609,Transfer,No,Subsidy,Success,Mobile,Broadband
+T0710,2025-01-26,Gujarat,Mumbai,U1709,Male,35-44,HDFC,Current,P2M,UPI,BHIM,5208,Food,Yes,PMJDY,Failed,Mobile,3G
+T0711,2025-01-28,Rajasthan,Kolkata,U1710,Female,25-34,SBI,JanDhan,BillPay,UPI,GPay,8165,Food,Yes,Subsidy,Failed,Mobile,4G
+T0712,2025-03-01,Gujarat,Chennai,U1711,Male,25-34,ICICI,Current,P2M,UPI,Paytm,2126,Food,Yes,PMJDY,Success,Mobile,5G
+T0713,2025-03-03,West Bengal,Mumbai,U1712,Female,18-24,HDFC,JanDhan,P2M,UPI,GPay,8462,Transfer,No,NULL,Failed,Mobile,5G
+T0714,2025-03-01,Maharashtra,Patna,U1713,Male,35-44,Axis,Current,P2M,UPI,PhonePe,8427,Food,Yes,PMJDY,Failed,Mobile,5G
+T0715,2025-02-25,Maharashtra,Ahmedabad,U1714,Male,25-34,SBI,Savings,BillPay,UPI,PhonePe,8772,Electronics,No,NULL,Failed,Mobile,Broadband
+T0716,2025-03-11,West Bengal,Delhi,U1715,Female,45+,ICICI,Savings,BillPay,UPI,PhonePe,2904,Electronics,Yes,Subsidy,Success,Mobile,4G
+T0717,2025-01-27,Delhi,Jaipur,U1716,Female,18-24,HDFC,Current,BillPay,UPI,BHIM,133,Electronics,No,Subsidy,Failed,Mobile,3G
+T0718,2025-02-12,Tamil Nadu,Delhi,U1717,Male,25-34,HDFC,Savings,P2M,UPI,Paytm,6556,Bills,No,NULL,Failed,Mobile,5G
+T0719,2025-01-25,Gujarat,Mumbai,U1718,Male,45+,ICICI,Savings,P2P,UPI,GPay,9834,Transfer,Yes,PMJDY,Success,Mobile,4G
+T0720,2025-03-22,West Bengal,Patna,U1719,Male,35-44,ICICI,JanDhan,P2P,UPI,PhonePe,779,Shopping,Yes,Subsidy,Success,Mobile,Broadband
+T0721,2025-03-18,Rajasthan,Chennai,U1720,Male,35-44,ICICI,Savings,P2M,UPI,Paytm,5592,Shopping,No,Subsidy,Failed,Desktop,4G
+T0722,2025-01-11,Maharashtra,Delhi,U1721,Male,35-44,HDFC,Savings,P2P,UPI,Paytm,6648,Food,Yes,Subsidy,Failed,Desktop,5G
+T0723,2025-03-26,Gujarat,Chennai,U1722,Male,25-34,SBI,JanDhan,P2M,UPI,BHIM,9219,Electronics,Yes,PMJDY,Success,Desktop,4G
+T0724,2025-01-18,West Bengal,Jaipur,U1723,Female,18-24,HDFC,Current,BillPay,UPI,PhonePe,8983,Electronics,Yes,NULL,Success,Desktop,Broadband
+T0725,2025-02-10,Karnataka,Jaipur,U1724,Male,18-24,PNB,Savings,P2M,UPI,PhonePe,3293,Transfer,Yes,NULL,Success,Mobile,3G
+T0726,2025-02-28,Rajasthan,Delhi,U1725,Female,35-44,ICICI,JanDhan,BillPay,UPI,Paytm,7274,Transfer,No,PMJDY,Failed,Desktop,4G
+T0727,2025-03-01,West Bengal,Delhi,U1726,Female,18-24,SBI,JanDhan,P2M,UPI,PhonePe,3553,Bills,Yes,NULL,Success,Mobile,4G
+T0728,2025-03-15,Tamil Nadu,Kolkata,U1727,Female,45+,Axis,JanDhan,P2M,UPI,PhonePe,189,Electronics,No,Subsidy,Success,Desktop,4G
+T0729,2025-01-01,Bihar,Ahmedabad,U1728,Male,18-24,ICICI,JanDhan,BillPay,UPI,BHIM,2698,Shopping,Yes,PMJDY,Failed,Desktop,Broadband
+T0730,2025-01-16,Tamil Nadu,Jaipur,U1729,Male,18-24,PNB,JanDhan,BillPay,UPI,GPay,9091,Bills,Yes,NULL,Success,Desktop,Broadband
+T0731,2025-03-03,Gujarat,Patna,U1730,Male,45+,HDFC,Savings,P2M,UPI,PhonePe,6807,Shopping,No,Subsidy,Success,Desktop,Broadband
+T0732,2025-01-09,Gujarat,Bangalore,U1731,Male,45+,SBI,JanDhan,P2M,UPI,BHIM,2918,Bills,No,PMJDY,Failed,Desktop,Broadband
+T0733,2025-03-11,Maharashtra,Bangalore,U1732,Male,45+,PNB,Current,P2P,UPI,Paytm,5908,Bills,No,NULL,Success,Desktop,3G
+T0734,2025-03-24,West Bengal,Mumbai,U1733,Female,45+,ICICI,Savings,P2P,UPI,PhonePe,4858,Food,Yes,NULL,Failed,Desktop,5G
+T0735,2025-03-31,Bihar,Patna,U1734,Female,18-24,PNB,Savings,P2M,UPI,PhonePe,4522,Food,No,Subsidy,Success,Mobile,5G
+T0736,2025-03-12,Tamil Nadu,Chennai,U1735,Female,25-34,Axis,JanDhan,BillPay,UPI,BHIM,3024,Food,No,PMJDY,Failed,Mobile,5G
+T0737,2025-01-02,Gujarat,Mumbai,U1736,Male,45+,ICICI,JanDhan,P2P,UPI,GPay,3704,Food,No,Subsidy,Success,Mobile,4G
+T0738,2025-01-12,Tamil Nadu,Kolkata,U1737,Female,25-34,PNB,Savings,BillPay,UPI,BHIM,3273,Electronics,Yes,NULL,Failed,Desktop,4G
+T0739,2025-02-19,Delhi,Ahmedabad,U1738,Male,35-44,HDFC,Current,P2M,UPI,BHIM,1764,Transfer,Yes,NULL,Success,Desktop,5G
+T0740,2025-03-06,Delhi,Bangalore,U1739,Male,35-44,SBI,Savings,P2P,UPI,BHIM,4053,Electronics,Yes,NULL,Failed,Desktop,Broadband
+T0741,2025-03-05,Delhi,Bangalore,U1740,Female,18-24,Axis,JanDhan,BillPay,UPI,Paytm,4980,Transfer,No,PMJDY,Failed,Mobile,4G
+T0742,2025-03-21,West Bengal,Kolkata,U1741,Male,25-34,PNB,JanDhan,P2P,UPI,PhonePe,4479,Bills,No,Subsidy,Failed,Desktop,Broadband
+T0743,2025-01-07,Gujarat,Mumbai,U1742,Male,45+,Axis,JanDhan,BillPay,UPI,BHIM,8783,Electronics,Yes,NULL,Failed,Mobile,5G
+T0744,2025-02-28,Delhi,Chennai,U1743,Female,25-34,HDFC,Current,P2P,UPI,GPay,1030,Food,No,NULL,Success,Desktop,3G
+T0745,2025-03-04,Karnataka,Jaipur,U1744,Female,35-44,PNB,Current,BillPay,UPI,GPay,5434,Food,Yes,Subsidy,Success,Desktop,Broadband
+T0746,2025-03-28,Rajasthan,Patna,U1745,Male,45+,ICICI,JanDhan,P2M,UPI,GPay,1433,Bills,No,PMJDY,Failed,Mobile,5G
+T0747,2025-02-07,Karnataka,Patna,U1746,Male,45+,ICICI,Savings,P2P,UPI,PhonePe,3731,Bills,Yes,Subsidy,Failed,Desktop,3G
+T0748,2025-01-17,Karnataka,Chennai,U1747,Male,35-44,PNB,Savings,P2M,UPI,GPay,5081,Shopping,Yes,Subsidy,Success,Desktop,3G
+T0749,2025-03-22,Tamil Nadu,Mumbai,U1748,Male,45+,PNB,Current,BillPay,UPI,GPay,8932,Food,Yes,Subsidy,Failed,Desktop,5G
+T0750,2025-02-16,Rajasthan,Bangalore,U1749,Female,45+,PNB,Savings,P2P,UPI,GPay,6954,Electronics,No,Subsidy,Success,Mobile,5G
+T0751,2025-03-22,West Bengal,Jaipur,U1750,Male,45+,SBI,Current,P2M,UPI,Paytm,6470,Transfer,Yes,NULL,Success,Mobile,5G
+T0752,2025-02-06,Bihar,Chennai,U1751,Female,35-44,HDFC,JanDhan,P2M,UPI,PhonePe,2493,Electronics,Yes,PMJDY,Success,Desktop,5G
+T0753,2025-03-12,West Bengal,Mumbai,U1752,Female,35-44,PNB,JanDhan,P2M,UPI,BHIM,3920,Food,Yes,Subsidy,Failed,Mobile,Broadband
+T0754,2025-03-17,Gujarat,Patna,U1753,Female,18-24,HDFC,Current,BillPay,UPI,BHIM,1383,Bills,Yes,NULL,Success,Mobile,4G
+T0755,2025-03-28,Maharashtra,Delhi,U1754,Male,18-24,HDFC,Current,P2M,UPI,Paytm,1896,Electronics,No,Subsidy,Failed,Desktop,Broadband
+T0756,2025-03-29,Karnataka,Ahmedabad,U1755,Male,25-34,ICICI,Current,BillPay,UPI,PhonePe,4829,Bills,Yes,NULL,Success,Desktop,5G
+T0757,2025-03-31,Rajasthan,Delhi,U1756,Female,35-44,SBI,JanDhan,P2M,UPI,BHIM,4755,Food,Yes,Subsidy,Success,Desktop,3G
+T0758,2025-01-20,Karnataka,Patna,U1757,Male,45+,ICICI,Savings,P2P,UPI,PhonePe,5107,Electronics,Yes,NULL,Failed,Desktop,3G
+T0759,2025-01-09,Rajasthan,Jaipur,U1758,Female,25-34,SBI,JanDhan,BillPay,UPI,PhonePe,8384,Shopping,Yes,Subsidy,Success,Mobile,Broadband
+T0760,2025-01-01,Bihar,Chennai,U1759,Male,45+,PNB,JanDhan,P2M,UPI,BHIM,5887,Transfer,No,Subsidy,Failed,Desktop,4G
+T0761,2025-01-09,Rajasthan,Delhi,U1760,Male,35-44,HDFC,Savings,P2M,UPI,Paytm,5023,Transfer,No,Subsidy,Success,Mobile,5G
+T0762,2025-01-21,West Bengal,Bangalore,U1761,Female,18-24,Axis,JanDhan,P2P,UPI,BHIM,3131,Transfer,Yes,Subsidy,Failed,Mobile,4G
+T0763,2025-03-18,Maharashtra,Patna,U1762,Male,25-34,Axis,Savings,P2M,UPI,GPay,9599,Bills,Yes,NULL,Success,Mobile,3G
+T0764,2025-01-04,Gujarat,Patna,U1763,Male,25-34,PNB,JanDhan,BillPay,UPI,Paytm,8844,Electronics,Yes,Subsidy,Success,Mobile,4G
+T0765,2025-01-15,West Bengal,Mumbai,U1764,Female,25-34,Axis,JanDhan,BillPay,UPI,BHIM,4228,Electronics,Yes,NULL,Success,Desktop,4G
+T0766,2025-02-26,Karnataka,Patna,U1765,Female,45+,ICICI,Savings,BillPay,UPI,GPay,7613,Electronics,Yes,Subsidy,Success,Mobile,4G
+T0767,2025-02-17,West Bengal,Chennai,U1766,Male,45+,SBI,Savings,BillPay,UPI,PhonePe,2717,Transfer,No,Subsidy,Failed,Mobile,4G
+T0768,2025-02-05,Gujarat,Ahmedabad,U1767,Female,25-34,SBI,Savings,P2M,UPI,PhonePe,309,Shopping,No,PMJDY,Failed,Mobile,3G
+T0769,2025-02-11,Tamil Nadu,Bangalore,U1768,Female,25-34,HDFC,Current,P2M,UPI,PhonePe,8405,Bills,No,PMJDY,Failed,Desktop,Broadband
+T0770,2025-02-05,Rajasthan,Chennai,U1769,Female,35-44,Axis,Current,P2M,UPI,Paytm,6954,Electronics,No,PMJDY,Success,Desktop,5G
+T0771,2025-03-18,Tamil Nadu,Kolkata,U1770,Male,25-34,ICICI,JanDhan,P2M,UPI,GPay,6680,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0772,2025-01-06,Bihar,Mumbai,U1771,Female,18-24,SBI,JanDhan,P2M,UPI,Paytm,3514,Electronics,Yes,Subsidy,Failed,Desktop,4G
+T0773,2025-03-20,Tamil Nadu,Ahmedabad,U1772,Female,18-24,ICICI,Savings,BillPay,UPI,PhonePe,628,Transfer,No,Subsidy,Failed,Mobile,5G
+T0774,2025-03-17,Maharashtra,Kolkata,U1773,Female,18-24,PNB,Current,BillPay,UPI,BHIM,8955,Electronics,Yes,PMJDY,Success,Desktop,3G
+T0775,2025-01-09,Maharashtra,Kolkata,U1774,Female,25-34,ICICI,Current,P2P,UPI,BHIM,7824,Shopping,Yes,Subsidy,Success,Desktop,Broadband
+T0776,2025-01-06,Maharashtra,Patna,U1775,Female,35-44,Axis,Savings,P2P,UPI,Paytm,4628,Shopping,No,PMJDY,Failed,Desktop,5G
+T0777,2025-01-01,Karnataka,Patna,U1776,Male,18-24,PNB,Savings,P2P,UPI,PhonePe,7733,Shopping,No,NULL,Failed,Desktop,Broadband
+T0778,2025-03-22,West Bengal,Delhi,U1777,Female,35-44,HDFC,JanDhan,P2M,UPI,PhonePe,8779,Transfer,No,Subsidy,Failed,Desktop,4G
+T0779,2025-02-24,Karnataka,Jaipur,U1778,Female,35-44,ICICI,JanDhan,BillPay,UPI,Paytm,5950,Shopping,No,NULL,Success,Desktop,5G
+T0780,2025-01-02,Maharashtra,Mumbai,U1779,Male,25-34,HDFC,JanDhan,P2P,UPI,Paytm,1210,Transfer,No,Subsidy,Success,Desktop,4G
+T0781,2025-02-24,Gujarat,Kolkata,U1780,Male,45+,Axis,Current,BillPay,UPI,GPay,639,Transfer,No,PMJDY,Failed,Mobile,4G
+T0782,2025-03-07,Maharashtra,Jaipur,U1781,Female,25-34,HDFC,Current,BillPay,UPI,Paytm,895,Bills,No,NULL,Failed,Mobile,5G
+T0783,2025-03-18,Maharashtra,Delhi,U1782,Female,35-44,HDFC,JanDhan,BillPay,UPI,Paytm,7137,Shopping,No,NULL,Failed,Mobile,Broadband
+T0784,2025-03-02,Tamil Nadu,Bangalore,U1783,Male,45+,HDFC,Savings,P2M,UPI,BHIM,8650,Bills,No,PMJDY,Failed,Mobile,5G
+T0785,2025-01-11,Gujarat,Jaipur,U1784,Male,35-44,ICICI,Savings,P2M,UPI,GPay,3638,Electronics,No,Subsidy,Success,Desktop,Broadband
+T0786,2025-01-19,Karnataka,Ahmedabad,U1785,Female,25-34,SBI,Savings,P2P,UPI,BHIM,9464,Transfer,Yes,Subsidy,Failed,Mobile,4G
+T0787,2025-02-07,Tamil Nadu,Jaipur,U1786,Female,25-34,Axis,Savings,BillPay,UPI,PhonePe,3942,Bills,No,Subsidy,Success,Desktop,5G
+T0788,2025-01-29,Bihar,Patna,U1787,Male,35-44,SBI,JanDhan,BillPay,UPI,PhonePe,7632,Electronics,Yes,NULL,Failed,Desktop,5G
+T0789,2025-01-09,Tamil Nadu,Bangalore,U1788,Female,18-24,HDFC,Current,BillPay,UPI,BHIM,5304,Shopping,No,Subsidy,Success,Mobile,5G
+T0790,2025-03-03,West Bengal,Jaipur,U1789,Female,18-24,PNB,Savings,BillPay,UPI,Paytm,6853,Transfer,Yes,NULL,Failed,Desktop,4G
+T0791,2025-01-27,Delhi,Bangalore,U1790,Male,25-34,HDFC,Savings,P2M,UPI,Paytm,2088,Transfer,Yes,Subsidy,Success,Mobile,Broadband
+T0792,2025-03-12,Bihar,Bangalore,U1791,Female,35-44,ICICI,Current,P2M,UPI,BHIM,1306,Food,Yes,NULL,Failed,Mobile,5G
+T0793,2025-03-18,Bihar,Jaipur,U1792,Female,25-34,ICICI,Savings,BillPay,UPI,GPay,7018,Transfer,Yes,NULL,Success,Mobile,Broadband
+T0794,2025-01-03,Delhi,Patna,U1793,Male,45+,PNB,JanDhan,P2P,UPI,GPay,2429,Transfer,No,PMJDY,Success,Desktop,Broadband
+T0795,2025-03-19,Tamil Nadu,Kolkata,U1794,Female,25-34,HDFC,Current,P2P,UPI,BHIM,4584,Transfer,No,PMJDY,Failed,Mobile,3G
+T0796,2025-01-27,Delhi,Patna,U1795,Male,45+,SBI,Current,P2P,UPI,PhonePe,3260,Bills,No,PMJDY,Failed,Desktop,5G
+T0797,2025-02-21,Delhi,Kolkata,U1796,Male,35-44,PNB,JanDhan,P2P,UPI,Paytm,6410,Electronics,No,Subsidy,Failed,Desktop,5G
+T0798,2025-01-04,Tamil Nadu,Bangalore,U1797,Female,25-34,PNB,JanDhan,BillPay,UPI,Paytm,8584,Bills,No,NULL,Failed,Desktop,3G
+T0799,2025-03-13,Delhi,Chennai,U1798,Male,45+,PNB,JanDhan,P2P,UPI,BHIM,2752,Transfer,Yes,Subsidy,Failed,Mobile,3G
+T0800,2025-03-11,Bihar,Ahmedabad,U1799,Male,35-44,PNB,Savings,P2M,UPI,BHIM,2173,Electronics,No,PMJDY,Failed,Mobile,Broadband
+T0801,2025-01-09,Gujarat,Ahmedabad,U1800,Male,25-34,HDFC,Savings,BillPay,UPI,GPay,5153,Food,No,NULL,Success,Desktop,4G
+T0802,2025-02-09,Gujarat,Mumbai,U1801,Female,18-24,HDFC,Savings,P2M,UPI,PhonePe,8799,Bills,Yes,PMJDY,Failed,Desktop,5G
+T0803,2025-03-15,West Bengal,Chennai,U1802,Female,18-24,ICICI,JanDhan,P2P,UPI,Paytm,7839,Shopping,Yes,NULL,Success,Mobile,5G
+T0804,2025-01-26,Karnataka,Chennai,U1803,Male,35-44,SBI,JanDhan,P2P,UPI,Paytm,7174,Transfer,Yes,NULL,Failed,Desktop,4G
+T0805,2025-03-24,Karnataka,Jaipur,U1804,Male,18-24,SBI,JanDhan,BillPay,UPI,GPay,7016,Electronics,Yes,Subsidy,Success,Desktop,5G
+T0806,2025-01-07,Karnataka,Mumbai,U1805,Male,25-34,Axis,JanDhan,P2P,UPI,PhonePe,6460,Electronics,No,Subsidy,Success,Desktop,4G
+T0807,2025-03-03,Rajasthan,Patna,U1806,Female,35-44,ICICI,JanDhan,P2M,UPI,PhonePe,6855,Transfer,Yes,NULL,Failed,Desktop,Broadband
+T0808,2025-02-22,Tamil Nadu,Kolkata,U1807,Male,35-44,HDFC,Savings,P2P,UPI,GPay,7999,Shopping,No,NULL,Failed,Mobile,4G
+T0809,2025-01-20,Gujarat,Delhi,U1808,Male,45+,SBI,JanDhan,BillPay,UPI,PhonePe,2276,Bills,No,PMJDY,Success,Mobile,Broadband
+T0810,2025-03-22,Tamil Nadu,Mumbai,U1809,Female,45+,PNB,Savings,P2P,UPI,GPay,7804,Food,Yes,PMJDY,Failed,Desktop,5G
+T0811,2025-01-20,Gujarat,Delhi,U1810,Female,35-44,SBI,Savings,P2P,UPI,GPay,1861,Bills,Yes,NULL,Failed,Mobile,4G
+T0812,2025-03-05,Rajasthan,Bangalore,U1811,Male,35-44,Axis,Current,P2M,UPI,BHIM,2082,Transfer,No,Subsidy,Success,Mobile,Broadband
+T0813,2025-01-04,Karnataka,Delhi,U1812,Female,25-34,HDFC,Current,P2P,UPI,BHIM,4378,Bills,Yes,NULL,Success,Desktop,5G
+T0814,2025-01-27,Maharashtra,Chennai,U1813,Male,35-44,HDFC,JanDhan,BillPay,UPI,PhonePe,1672,Shopping,Yes,NULL,Failed,Mobile,Broadband
+T0815,2025-01-17,Gujarat,Patna,U1814,Female,35-44,PNB,JanDhan,P2P,UPI,Paytm,9824,Shopping,No,Subsidy,Failed,Desktop,3G
+T0816,2025-02-16,Bihar,Jaipur,U1815,Female,45+,ICICI,JanDhan,P2P,UPI,Paytm,6062,Bills,Yes,Subsidy,Failed,Mobile,3G
+T0817,2025-01-19,Gujarat,Chennai,U1816,Male,45+,PNB,Current,P2P,UPI,PhonePe,3316,Transfer,No,Subsidy,Success,Mobile,3G
+T0818,2025-01-05,Tamil Nadu,Patna,U1817,Male,18-24,ICICI,Savings,P2P,UPI,PhonePe,1624,Electronics,Yes,Subsidy,Failed,Desktop,4G
+T0819,2025-02-03,Bihar,Mumbai,U1818,Female,45+,HDFC,Savings,BillPay,UPI,Paytm,2934,Electronics,Yes,NULL,Success,Desktop,3G
+T0820,2025-04-01,Gujarat,Delhi,U1819,Male,25-34,Axis,Current,P2P,UPI,Paytm,9352,Transfer,No,PMJDY,Success,Desktop,3G
+T0821,2025-02-14,West Bengal,Delhi,U1820,Female,45+,PNB,Savings,P2M,UPI,PhonePe,4944,Food,Yes,PMJDY,Failed,Desktop,4G
+T0822,2025-02-24,Rajasthan,Patna,U1821,Male,45+,HDFC,Current,P2M,UPI,Paytm,5212,Shopping,Yes,PMJDY,Success,Mobile,4G
+T0823,2025-01-25,Delhi,Patna,U1822,Female,45+,HDFC,Savings,BillPay,UPI,PhonePe,3639,Food,Yes,PMJDY,Success,Desktop,5G
+T0824,2025-03-22,Maharashtra,Kolkata,U1823,Female,25-34,PNB,Current,P2M,UPI,PhonePe,7247,Bills,Yes,PMJDY,Failed,Mobile,5G
+T0825,2025-01-21,Delhi,Ahmedabad,U1824,Male,45+,HDFC,Current,P2P,UPI,PhonePe,7391,Bills,Yes,PMJDY,Failed,Mobile,Broadband
+T0826,2025-03-18,Tamil Nadu,Bangalore,U1825,Female,35-44,PNB,Savings,P2M,UPI,PhonePe,7546,Electronics,No,PMJDY,Success,Mobile,4G
+T0827,2025-03-06,Bihar,Patna,U1826,Male,25-34,PNB,Savings,P2M,UPI,Paytm,3613,Transfer,Yes,Subsidy,Failed,Desktop,Broadband
+T0828,2025-01-17,Delhi,Mumbai,U1827,Male,35-44,HDFC,Current,P2P,UPI,Paytm,1487,Transfer,No,PMJDY,Failed,Mobile,3G
+T0829,2025-02-25,Bihar,Chennai,U1828,Female,35-44,Axis,Savings,P2P,UPI,Paytm,1989,Food,No,PMJDY,Failed,Mobile,4G
+T0830,2025-01-16,Tamil Nadu,Delhi,U1829,Male,45+,Axis,JanDhan,P2M,UPI,BHIM,9843,Food,No,PMJDY,Failed,Desktop,4G
+T0831,2025-03-19,Tamil Nadu,Kolkata,U1830,Male,45+,ICICI,JanDhan,BillPay,UPI,GPay,8569,Transfer,Yes,Subsidy,Failed,Desktop,Broadband
+T0832,2025-02-16,Karnataka,Ahmedabad,U1831,Male,18-24,PNB,Current,BillPay,UPI,GPay,3646,Food,No,Subsidy,Success,Mobile,5G
+T0833,2025-03-17,Maharashtra,Jaipur,U1832,Male,45+,SBI,JanDhan,P2P,UPI,PhonePe,9097,Transfer,No,PMJDY,Success,Mobile,4G
+T0834,2025-03-06,Rajasthan,Bangalore,U1833,Female,18-24,PNB,JanDhan,P2P,UPI,PhonePe,4341,Transfer,Yes,NULL,Success,Desktop,5G
+T0835,2025-02-05,Karnataka,Jaipur,U1834,Male,45+,SBI,JanDhan,P2M,UPI,GPay,5968,Food,Yes,PMJDY,Success,Desktop,Broadband
+T0836,2025-01-01,Rajasthan,Mumbai,U1835,Male,25-34,ICICI,JanDhan,P2P,UPI,PhonePe,6213,Bills,Yes,PMJDY,Failed,Desktop,5G
+T0837,2025-03-26,West Bengal,Jaipur,U1836,Female,35-44,ICICI,JanDhan,P2P,UPI,GPay,3175,Bills,No,NULL,Failed,Desktop,3G
+T0838,2025-01-26,Karnataka,Delhi,U1837,Male,18-24,HDFC,Savings,P2P,UPI,PhonePe,9883,Bills,No,PMJDY,Success,Desktop,3G
+T0839,2025-01-09,Rajasthan,Mumbai,U1838,Male,18-24,SBI,Current,P2P,UPI,Paytm,8176,Bills,Yes,PMJDY,Failed,Mobile,3G
+T0840,2025-01-29,Karnataka,Bangalore,U1839,Male,25-34,HDFC,Savings,P2P,UPI,GPay,6396,Bills,No,NULL,Failed,Mobile,5G
+T0841,2025-01-23,Karnataka,Ahmedabad,U1840,Male,35-44,Axis,Current,BillPay,UPI,BHIM,7956,Electronics,Yes,NULL,Success,Mobile,4G
+T0842,2025-01-15,Tamil Nadu,Delhi,U1841,Female,45+,SBI,Savings,BillPay,UPI,PhonePe,698,Shopping,Yes,Subsidy,Success,Mobile,3G
+T0843,2025-01-31,Bihar,Patna,U1842,Male,45+,ICICI,JanDhan,P2M,UPI,BHIM,3438,Shopping,Yes,PMJDY,Failed,Desktop,3G
+T0844,2025-01-04,Tamil Nadu,Jaipur,U1843,Male,35-44,ICICI,Savings,P2M,UPI,PhonePe,6483,Transfer,Yes,NULL,Failed,Desktop,4G
+T0845,2025-01-21,Tamil Nadu,Kolkata,U1844,Female,18-24,SBI,Current,BillPay,UPI,PhonePe,2708,Transfer,Yes,NULL,Failed,Mobile,5G
+T0846,2025-02-19,Rajasthan,Kolkata,U1845,Female,18-24,HDFC,Savings,P2M,UPI,BHIM,541,Electronics,Yes,Subsidy,Success,Desktop,Broadband
+T0847,2025-02-05,Karnataka,Chennai,U1846,Female,25-34,PNB,Current,BillPay,UPI,GPay,9497,Food,Yes,PMJDY,Success,Desktop,Broadband
+T0848,2025-02-18,Maharashtra,Chennai,U1847,Female,45+,Axis,Current,BillPay,UPI,PhonePe,1504,Food,No,Subsidy,Success,Desktop,5G
+T0849,2025-03-11,Gujarat,Ahmedabad,U1848,Female,25-34,HDFC,Current,BillPay,UPI,Paytm,1459,Bills,No,PMJDY,Success,Mobile,5G
+T0850,2025-02-28,Bihar,Jaipur,U1849,Male,25-34,Axis,Current,P2P,UPI,PhonePe,3015,Bills,Yes,NULL,Success,Mobile,3G
+T0851,2025-02-12,Gujarat,Bangalore,U1850,Male,45+,PNB,JanDhan,P2M,UPI,GPay,3822,Electronics,Yes,PMJDY,Failed,Mobile,Broadband
+T0852,2025-02-24,Gujarat,Jaipur,U1851,Female,35-44,ICICI,Savings,P2P,UPI,GPay,8026,Shopping,No,PMJDY,Failed,Mobile,5G
+T0853,2025-02-12,Maharashtra,Delhi,U1852,Male,18-24,SBI,Savings,P2M,UPI,BHIM,5730,Transfer,No,PMJDY,Failed,Desktop,3G
+T0854,2025-02-04,Tamil Nadu,Mumbai,U1853,Female,25-34,SBI,JanDhan,P2P,UPI,BHIM,2706,Bills,Yes,NULL,Success,Desktop,5G
+T0855,2025-01-30,Delhi,Mumbai,U1854,Female,25-34,HDFC,Current,P2P,UPI,PhonePe,1249,Bills,No,NULL,Failed,Mobile,5G
+T0856,2025-03-22,Gujarat,Patna,U1855,Male,25-34,SBI,Savings,P2P,UPI,PhonePe,8943,Bills,No,NULL,Success,Desktop,Broadband
+T0857,2025-03-24,Karnataka,Mumbai,U1856,Male,18-24,HDFC,Current,P2P,UPI,Paytm,7393,Shopping,Yes,PMJDY,Success,Mobile,5G
+T0858,2025-03-18,Tamil Nadu,Mumbai,U1857,Male,35-44,PNB,Current,P2M,UPI,Paytm,9531,Shopping,No,Subsidy,Success,Mobile,4G
+T0859,2025-03-11,Gujarat,Delhi,U1858,Male,35-44,HDFC,Savings,BillPay,UPI,GPay,6161,Electronics,Yes,PMJDY,Success,Desktop,3G
+T0860,2025-01-13,Maharashtra,Jaipur,U1859,Male,45+,ICICI,JanDhan,P2P,UPI,PhonePe,2911,Transfer,No,PMJDY,Success,Desktop,Broadband
+T0861,2025-03-07,Rajasthan,Delhi,U1860,Female,45+,HDFC,JanDhan,BillPay,UPI,Paytm,5770,Bills,Yes,Subsidy,Success,Mobile,4G
+T0862,2025-02-01,Delhi,Patna,U1861,Male,25-34,SBI,Current,P2P,UPI,Paytm,8236,Bills,Yes,Subsidy,Success,Mobile,3G
+T0863,2025-01-21,Rajasthan,Ahmedabad,U1862,Female,18-24,Axis,JanDhan,P2P,UPI,BHIM,1294,Transfer,No,PMJDY,Failed,Mobile,3G
+T0864,2025-01-04,Tamil Nadu,Jaipur,U1863,Male,18-24,HDFC,Savings,P2M,UPI,Paytm,9054,Shopping,Yes,PMJDY,Failed,Mobile,4G
+T0865,2025-02-01,Maharashtra,Jaipur,U1864,Female,18-24,HDFC,JanDhan,P2P,UPI,BHIM,3881,Food,No,NULL,Success,Mobile,4G
+T0866,2025-02-26,Rajasthan,Bangalore,U1865,Female,18-24,Axis,JanDhan,BillPay,UPI,PhonePe,4866,Transfer,No,NULL,Failed,Mobile,4G
+T0867,2025-01-09,Bihar,Ahmedabad,U1866,Female,18-24,ICICI,JanDhan,P2P,UPI,Paytm,2191,Food,Yes,Subsidy,Success,Desktop,5G
+T0868,2025-01-31,Maharashtra,Delhi,U1867,Male,45+,ICICI,JanDhan,P2P,UPI,BHIM,2632,Transfer,Yes,Subsidy,Failed,Mobile,3G
+T0869,2025-02-01,Maharashtra,Jaipur,U1868,Female,18-24,HDFC,Savings,BillPay,UPI,PhonePe,3310,Transfer,No,NULL,Success,Mobile,3G
+T0870,2025-03-16,Gujarat,Kolkata,U1869,Female,18-24,Axis,JanDhan,BillPay,UPI,Paytm,9974,Electronics,No,PMJDY,Failed,Mobile,5G
+T0871,2025-01-18,Bihar,Jaipur,U1870,Male,18-24,HDFC,Savings,P2M,UPI,BHIM,5176,Electronics,No,PMJDY,Failed,Mobile,4G
+T0872,2025-03-16,Tamil Nadu,Delhi,U1871,Female,35-44,Axis,JanDhan,P2P,UPI,PhonePe,6706,Electronics,No,PMJDY,Success,Mobile,4G
+T0873,2025-03-02,Karnataka,Jaipur,U1872,Male,18-24,ICICI,Current,P2P,UPI,BHIM,1726,Bills,Yes,PMJDY,Failed,Desktop,4G
+T0874,2025-03-02,Tamil Nadu,Kolkata,U1873,Male,25-34,Axis,Savings,BillPay,UPI,GPay,4184,Electronics,Yes,Subsidy,Success,Mobile,3G
+T0875,2025-03-25,Bihar,Patna,U1874,Male,18-24,PNB,Savings,P2P,UPI,PhonePe,244,Shopping,Yes,Subsidy,Failed,Mobile,Broadband
+T0876,2025-01-11,Maharashtra,Delhi,U1875,Male,18-24,PNB,JanDhan,BillPay,UPI,Paytm,3302,Shopping,No,NULL,Failed,Desktop,4G
+T0877,2025-01-01,Delhi,Kolkata,U1876,Male,18-24,Axis,Current,P2M,UPI,PhonePe,683,Bills,Yes,NULL,Failed,Desktop,4G
+T0878,2025-02-20,Bihar,Bangalore,U1877,Male,18-24,SBI,Current,P2P,UPI,GPay,1053,Electronics,Yes,NULL,Failed,Mobile,3G
+T0879,2025-02-11,Bihar,Ahmedabad,U1878,Female,18-24,SBI,Current,P2P,UPI,PhonePe,5060,Shopping,No,NULL,Success,Desktop,3G
+T0880,2025-01-29,Karnataka,Ahmedabad,U1879,Male,35-44,SBI,Savings,BillPay,UPI,BHIM,5616,Transfer,Yes,NULL,Success,Mobile,4G
+T0881,2025-02-24,Tamil Nadu,Mumbai,U1880,Female,35-44,ICICI,Current,BillPay,UPI,Paytm,3826,Bills,Yes,PMJDY,Success,Mobile,4G
+T0882,2025-03-17,Karnataka,Delhi,U1881,Female,18-24,SBI,Current,BillPay,UPI,Paytm,4792,Shopping,No,NULL,Failed,Desktop,Broadband
+T0883,2025-01-30,Bihar,Delhi,U1882,Male,18-24,PNB,Current,BillPay,UPI,BHIM,7558,Bills,Yes,Subsidy,Failed,Mobile,5G
+T0884,2025-02-14,Maharashtra,Bangalore,U1883,Female,25-34,HDFC,Savings,P2P,UPI,BHIM,2229,Food,No,Subsidy,Success,Desktop,4G
+T0885,2025-01-09,Bihar,Delhi,U1884,Female,25-34,Axis,Savings,BillPay,UPI,BHIM,9975,Bills,No,NULL,Success,Desktop,3G
+T0886,2025-01-27,West Bengal,Patna,U1885,Female,25-34,HDFC,JanDhan,BillPay,UPI,Paytm,7840,Food,No,Subsidy,Success,Desktop,4G
+T0887,2025-02-24,West Bengal,Bangalore,U1886,Female,45+,PNB,Savings,P2P,UPI,BHIM,8729,Shopping,Yes,Subsidy,Failed,Desktop,Broadband
+T0888,2025-02-23,West Bengal,Delhi,U1887,Male,18-24,Axis,Savings,P2M,UPI,GPay,6826,Shopping,Yes,Subsidy,Success,Desktop,Broadband
+T0889,2025-02-14,Bihar,Bangalore,U1888,Female,18-24,ICICI,Current,P2M,UPI,BHIM,2359,Bills,No,PMJDY,Success,Mobile,3G
+T0890,2025-02-05,Tamil Nadu,Ahmedabad,U1889,Female,45+,Axis,Savings,P2M,UPI,BHIM,152,Food,No,Subsidy,Success,Mobile,5G
+T0891,2025-02-21,West Bengal,Mumbai,U1890,Female,18-24,ICICI,Savings,P2M,UPI,GPay,1148,Bills,No,NULL,Success,Mobile,Broadband
+T0892,2025-03-30,Karnataka,Kolkata,U1891,Male,45+,Axis,JanDhan,BillPay,UPI,Paytm,2868,Food,Yes,Subsidy,Success,Mobile,Broadband
+T0893,2025-01-15,Rajasthan,Jaipur,U1892,Male,25-34,HDFC,JanDhan,BillPay,UPI,BHIM,8202,Electronics,No,Subsidy,Success,Mobile,4G
+T0894,2025-03-31,Karnataka,Patna,U1893,Male,18-24,Axis,JanDhan,BillPay,UPI,PhonePe,9253,Bills,No,NULL,Failed,Mobile,3G
+T0895,2025-01-24,Tamil Nadu,Kolkata,U1894,Female,35-44,SBI,Current,P2P,UPI,BHIM,2787,Transfer,No,PMJDY,Success,Mobile,4G
+T0896,2025-02-05,West Bengal,Patna,U1895,Female,18-24,PNB,JanDhan,BillPay,UPI,BHIM,80,Food,Yes,NULL,Failed,Desktop,4G
+T0897,2025-01-13,Karnataka,Kolkata,U1896,Female,18-24,SBI,Savings,P2M,UPI,Paytm,3261,Transfer,Yes,PMJDY,Failed,Mobile,3G
+T0898,2025-03-10,Delhi,Delhi,U1897,Female,35-44,Axis,Savings,P2M,UPI,GPay,6983,Shopping,No,Subsidy,Success,Mobile,3G
+T0899,2025-03-20,West Bengal,Kolkata,U1898,Female,18-24,PNB,JanDhan,P2M,UPI,Paytm,3762,Electronics,No,PMJDY,Failed,Mobile,4G
+T0900,2025-01-09,Maharashtra,Chennai,U1899,Female,25-34,Axis,JanDhan,BillPay,UPI,GPay,5557,Food,No,NULL,Success,Desktop,5G
+T0901,2025-02-27,Maharashtra,Mumbai,U1900,Female,25-34,HDFC,JanDhan,BillPay,UPI,BHIM,2442,Bills,No,Subsidy,Failed,Mobile,5G
+T0902,2025-02-15,Rajasthan,Patna,U1901,Male,18-24,SBI,Savings,P2P,UPI,PhonePe,3056,Bills,Yes,Subsidy,Failed,Desktop,5G
+T0903,2025-03-26,Bihar,Bangalore,U1902,Female,25-34,Axis,Current,P2P,UPI,Paytm,5499,Electronics,No,Subsidy,Success,Desktop,5G
+T0904,2025-01-10,Rajasthan,Jaipur,U1903,Male,35-44,HDFC,JanDhan,P2P,UPI,BHIM,6939,Shopping,No,NULL,Success,Desktop,4G
+T0905,2025-02-08,Delhi,Chennai,U1904,Female,25-34,SBI,Current,P2M,UPI,BHIM,4207,Electronics,No,Subsidy,Success,Mobile,4G
+T0906,2025-03-13,Gujarat,Patna,U1905,Female,35-44,PNB,JanDhan,P2M,UPI,GPay,6065,Bills,No,PMJDY,Success,Desktop,Broadband
+T0907,2025-02-26,Bihar,Kolkata,U1906,Male,45+,Axis,JanDhan,P2M,UPI,BHIM,4959,Electronics,Yes,NULL,Failed,Desktop,5G
+T0908,2025-03-15,Gujarat,Bangalore,U1907,Female,25-34,SBI,Savings,P2M,UPI,GPay,2379,Electronics,No,PMJDY,Failed,Mobile,Broadband
+T0909,2025-02-08,Karnataka,Mumbai,U1908,Female,35-44,Axis,Savings,BillPay,UPI,BHIM,3705,Transfer,Yes,NULL,Failed,Desktop,3G
+T0910,2025-02-27,Maharashtra,Mumbai,U1909,Male,18-24,ICICI,JanDhan,P2P,UPI,BHIM,5036,Bills,No,PMJDY,Failed,Desktop,4G
+T0911,2025-03-15,Gujarat,Jaipur,U1910,Female,25-34,Axis,Current,BillPay,UPI,BHIM,5191,Shopping,No,NULL,Failed,Desktop,3G
+T0912,2025-03-02,Delhi,Ahmedabad,U1911,Female,35-44,ICICI,JanDhan,BillPay,UPI,Paytm,3096,Electronics,Yes,NULL,Success,Desktop,5G
+T0913,2025-02-09,Gujarat,Chennai,U1912,Female,45+,ICICI,Savings,P2M,UPI,PhonePe,2772,Transfer,No,PMJDY,Failed,Mobile,4G
+T0914,2025-01-30,Tamil Nadu,Kolkata,U1913,Male,45+,ICICI,Current,P2M,UPI,Paytm,7254,Shopping,No,Subsidy,Success,Mobile,3G
+T0915,2025-03-22,Tamil Nadu,Ahmedabad,U1914,Female,45+,PNB,JanDhan,P2M,UPI,Paytm,6056,Electronics,Yes,PMJDY,Success,Mobile,4G
+T0916,2025-01-01,Delhi,Mumbai,U1915,Female,25-34,HDFC,JanDhan,BillPay,UPI,Paytm,8554,Food,Yes,NULL,Success,Desktop,4G
+T0917,2025-04-01,Tamil Nadu,Ahmedabad,U1916,Female,45+,PNB,Savings,BillPay,UPI,PhonePe,5240,Electronics,Yes,PMJDY,Failed,Mobile,3G
+T0918,2025-01-05,Karnataka,Patna,U1917,Female,45+,SBI,Current,BillPay,UPI,GPay,4503,Bills,No,NULL,Failed,Desktop,4G
+T0919,2025-01-31,Tamil Nadu,Jaipur,U1918,Female,25-34,ICICI,Savings,P2P,UPI,GPay,9778,Bills,Yes,PMJDY,Failed,Mobile,3G
+T0920,2025-04-01,Delhi,Kolkata,U1919,Female,18-24,PNB,JanDhan,P2M,UPI,BHIM,3085,Transfer,Yes,Subsidy,Success,Desktop,5G
+T0921,2025-02-24,Gujarat,Kolkata,U1920,Female,45+,SBI,Current,P2P,UPI,GPay,3193,Transfer,Yes,PMJDY,Success,Desktop,5G
+T0922,2025-02-26,Maharashtra,Patna,U1921,Female,35-44,ICICI,JanDhan,BillPay,UPI,GPay,3241,Food,No,Subsidy,Success,Mobile,3G
+T0923,2025-02-13,Maharashtra,Chennai,U1922,Male,35-44,SBI,Current,P2P,UPI,GPay,8091,Transfer,Yes,Subsidy,Success,Mobile,5G
+T0924,2025-03-12,Bihar,Kolkata,U1923,Male,18-24,ICICI,JanDhan,BillPay,UPI,PhonePe,2230,Food,Yes,Subsidy,Failed,Desktop,3G
+T0925,2025-02-28,Tamil Nadu,Jaipur,U1924,Female,35-44,SBI,Current,BillPay,UPI,BHIM,1942,Shopping,No,Subsidy,Success,Mobile,5G
+T0926,2025-01-16,Bihar,Kolkata,U1925,Female,45+,PNB,JanDhan,P2M,UPI,PhonePe,4358,Electronics,Yes,Subsidy,Failed,Desktop,4G
+T0927,2025-03-13,Delhi,Jaipur,U1926,Female,25-34,PNB,JanDhan,P2P,UPI,Paytm,2538,Shopping,No,Subsidy,Success,Desktop,5G
+T0928,2025-03-15,Karnataka,Delhi,U1927,Female,45+,Axis,Current,BillPay,UPI,PhonePe,3536,Electronics,No,NULL,Success,Desktop,3G
+T0929,2025-01-11,Tamil Nadu,Kolkata,U1928,Female,18-24,Axis,Savings,P2M,UPI,BHIM,5233,Food,No,NULL,Success,Desktop,4G
+T0930,2025-03-11,Rajasthan,Ahmedabad,U1929,Female,18-24,SBI,Savings,BillPay,UPI,PhonePe,8637,Electronics,Yes,Subsidy,Success,Mobile,Broadband
+T0931,2025-01-09,Karnataka,Bangalore,U1930,Female,35-44,SBI,Current,P2P,UPI,PhonePe,2816,Transfer,No,PMJDY,Failed,Desktop,5G
+T0932,2025-02-28,Maharashtra,Bangalore,U1931,Female,25-34,PNB,Current,P2P,UPI,BHIM,1673,Electronics,Yes,Subsidy,Failed,Desktop,5G
+T0933,2025-03-17,West Bengal,Bangalore,U1932,Male,45+,ICICI,Savings,BillPay,UPI,BHIM,7902,Food,No,PMJDY,Failed,Desktop,Broadband
+T0934,2025-01-09,Tamil Nadu,Mumbai,U1933,Female,45+,PNB,Current,P2M,UPI,Paytm,4760,Bills,No,Subsidy,Success,Desktop,4G
+T0935,2025-03-07,Bihar,Mumbai,U1934,Female,45+,ICICI,JanDhan,BillPay,UPI,BHIM,680,Shopping,No,PMJDY,Failed,Mobile,3G
+T0936,2025-01-29,Bihar,Jaipur,U1935,Female,18-24,PNB,Savings,P2P,UPI,BHIM,8139,Electronics,No,Subsidy,Success,Desktop,4G
+T0937,2025-03-22,Delhi,Jaipur,U1936,Male,35-44,PNB,JanDhan,P2P,UPI,BHIM,4133,Food,Yes,Subsidy,Failed,Desktop,3G
+T0938,2025-01-24,Gujarat,Jaipur,U1937,Male,45+,SBI,Current,P2P,UPI,Paytm,8212,Food,No,NULL,Success,Desktop,Broadband
+T0939,2025-01-10,Maharashtra,Mumbai,U1938,Female,18-24,SBI,JanDhan,BillPay,UPI,BHIM,9065,Shopping,No,Subsidy,Success,Mobile,Broadband
+T0940,2025-01-18,Tamil Nadu,Chennai,U1939,Female,25-34,SBI,Savings,P2M,UPI,BHIM,2082,Food,No,NULL,Failed,Mobile,5G
+T0941,2025-01-13,Bihar,Ahmedabad,U1940,Male,18-24,Axis,Current,BillPay,UPI,BHIM,5854,Bills,No,Subsidy,Failed,Mobile,4G
+T0942,2025-03-22,Tamil Nadu,Jaipur,U1941,Male,25-34,HDFC,JanDhan,P2M,UPI,Paytm,8855,Shopping,Yes,NULL,Failed,Desktop,3G
+T0943,2025-01-24,Maharashtra,Patna,U1942,Female,35-44,SBI,JanDhan,P2M,UPI,Paytm,8775,Electronics,No,PMJDY,Failed,Desktop,Broadband
+T0944,2025-02-05,Karnataka,Chennai,U1943,Male,18-24,SBI,JanDhan,BillPay,UPI,BHIM,8783,Shopping,Yes,Subsidy,Failed,Mobile,5G
+T0945,2025-03-08,Karnataka,Kolkata,U1944,Female,18-24,Axis,Current,P2P,UPI,BHIM,5413,Shopping,Yes,PMJDY,Failed,Mobile,3G
+T0946,2025-03-14,Delhi,Patna,U1945,Male,25-34,HDFC,Current,BillPay,UPI,PhonePe,2884,Bills,No,PMJDY,Failed,Mobile,Broadband
+T0947,2025-01-09,Bihar,Patna,U1946,Male,35-44,PNB,Savings,P2M,UPI,PhonePe,346,Food,No,NULL,Failed,Mobile,4G
+T0948,2025-03-20,West Bengal,Jaipur,U1947,Female,18-24,ICICI,Savings,P2P,UPI,BHIM,1657,Food,Yes,PMJDY,Success,Desktop,5G
+T0949,2025-03-01,West Bengal,Patna,U1948,Male,18-24,HDFC,Savings,P2M,UPI,BHIM,7259,Food,No,PMJDY,Success,Desktop,5G
+T0950,2025-03-02,Rajasthan,Mumbai,U1949,Male,35-44,HDFC,JanDhan,P2P,UPI,BHIM,4945,Bills,Yes,PMJDY,Failed,Desktop,4G
+T0951,2025-01-21,Delhi,Bangalore,U1950,Female,45+,SBI,Savings,P2M,UPI,Paytm,935,Food,Yes,PMJDY,Success,Mobile,4G
+T0952,2025-01-02,Gujarat,Delhi,U1951,Male,45+,Axis,Current,BillPay,UPI,GPay,5259,Shopping,Yes,PMJDY,Failed,Mobile,4G
+T0953,2025-02-23,West Bengal,Patna,U1952,Male,25-34,Axis,JanDhan,P2M,UPI,PhonePe,5647,Shopping,No,PMJDY,Success,Mobile,5G
+T0954,2025-03-19,Tamil Nadu,Patna,U1953,Female,45+,SBI,Savings,BillPay,UPI,PhonePe,9243,Food,No,PMJDY,Failed,Mobile,4G
+T0955,2025-01-05,Delhi,Patna,U1954,Female,35-44,HDFC,Savings,P2M,UPI,GPay,9878,Food,Yes,Subsidy,Failed,Desktop,4G
+T0956,2025-03-07,Gujarat,Mumbai,U1955,Female,18-24,PNB,Current,P2M,UPI,BHIM,201,Shopping,No,PMJDY,Success,Mobile,5G
+T0957,2025-01-19,Tamil Nadu,Delhi,U1956,Male,35-44,HDFC,Savings,P2M,UPI,Paytm,7648,Food,No,PMJDY,Failed,Mobile,3G
+T0958,2025-03-10,Delhi,Mumbai,U1957,Male,35-44,SBI,Current,P2P,UPI,Paytm,1973,Shopping,No,PMJDY,Success,Desktop,3G
+T0959,2025-01-26,Karnataka,Patna,U1958,Female,45+,SBI,Current,P2P,UPI,PhonePe,644,Bills,Yes,NULL,Success,Desktop,3G
+T0960,2025-01-19,Gujarat,Patna,U1959,Female,18-24,Axis,Savings,P2P,UPI,GPay,3370,Food,No,NULL,Success,Mobile,3G
+T0961,2025-02-09,Rajasthan,Kolkata,U1960,Male,18-24,Axis,JanDhan,P2M,UPI,PhonePe,9566,Shopping,Yes,PMJDY,Success,Desktop,5G
+T0962,2025-02-21,Delhi,Kolkata,U1961,Female,35-44,Axis,Savings,P2P,UPI,GPay,4899,Food,Yes,NULL,Failed,Mobile,3G
+T0963,2025-03-08,Rajasthan,Delhi,U1962,Male,18-24,HDFC,Current,P2P,UPI,BHIM,6133,Bills,No,Subsidy,Failed,Desktop,Broadband
+T0964,2025-03-13,Delhi,Patna,U1963,Female,45+,PNB,JanDhan,BillPay,UPI,GPay,8146,Food,Yes,PMJDY,Failed,Desktop,4G
+T0965,2025-02-08,West Bengal,Chennai,U1964,Female,45+,SBI,JanDhan,P2P,UPI,BHIM,2480,Electronics,No,Subsidy,Success,Desktop,3G
+T0966,2025-01-20,Karnataka,Chennai,U1965,Male,45+,SBI,JanDhan,P2M,UPI,BHIM,8446,Transfer,No,Subsidy,Success,Mobile,3G
+T0967,2025-02-22,Delhi,Mumbai,U1966,Male,35-44,PNB,JanDhan,P2M,UPI,PhonePe,9094,Shopping,No,PMJDY,Success,Mobile,5G
+T0968,2025-03-16,Tamil Nadu,Patna,U1967,Female,45+,ICICI,Current,P2M,UPI,BHIM,9498,Bills,No,PMJDY,Failed,Desktop,5G
+T0969,2025-03-23,Gujarat,Mumbai,U1968,Female,25-34,HDFC,Savings,P2M,UPI,GPay,6121,Food,Yes,NULL,Failed,Mobile,4G
+T0970,2025-03-17,Bihar,Delhi,U1969,Female,45+,PNB,Current,P2P,UPI,BHIM,9844,Transfer,No,PMJDY,Failed,Mobile,Broadband
+T0971,2025-01-26,Bihar,Bangalore,U1970,Female,35-44,SBI,Current,BillPay,UPI,BHIM,9704,Shopping,No,PMJDY,Success,Desktop,4G
+T0972,2025-01-10,Delhi,Bangalore,U1971,Female,18-24,SBI,Savings,P2M,UPI,Paytm,6383,Shopping,Yes,PMJDY,Success,Desktop,3G
+T0973,2025-01-17,Gujarat,Ahmedabad,U1972,Female,45+,ICICI,JanDhan,P2P,UPI,Paytm,1285,Food,No,NULL,Failed,Desktop,4G
+T0974,2025-01-04,Maharashtra,Patna,U1973,Female,25-34,HDFC,JanDhan,P2M,UPI,BHIM,3340,Electronics,Yes,NULL,Success,Desktop,4G
+T0975,2025-01-27,West Bengal,Patna,U1974,Female,35-44,Axis,Savings,P2M,UPI,BHIM,6846,Food,Yes,Subsidy,Success,Mobile,5G
+T0976,2025-01-05,Maharashtra,Patna,U1975,Female,18-24,Axis,Savings,P2M,UPI,BHIM,6615,Shopping,Yes,PMJDY,Failed,Mobile,4G
+T0977,2025-03-19,Tamil Nadu,Ahmedabad,U1976,Male,25-34,SBI,Current,P2M,UPI,GPay,4226,Transfer,Yes,Subsidy,Success,Desktop,Broadband
+T0978,2025-03-12,Rajasthan,Delhi,U1977,Male,35-44,PNB,JanDhan,P2M,UPI,GPay,2866,Bills,Yes,Subsidy,Failed,Desktop,3G
+T0979,2025-03-25,West Bengal,Ahmedabad,U1978,Male,35-44,HDFC,Savings,P2M,UPI,GPay,1022,Shopping,Yes,NULL,Success,Mobile,5G
+T0980,2025-01-05,Maharashtra,Delhi,U1979,Female,45+,Axis,Savings,P2M,UPI,PhonePe,4052,Electronics,No,NULL,Success,Desktop,Broadband
+T0981,2025-01-27,Gujarat,Chennai,U1980,Male,35-44,Axis,JanDhan,BillPay,UPI,Paytm,173,Food,Yes,Subsidy,Failed,Mobile,4G
+T0982,2025-03-21,Delhi,Kolkata,U1981,Male,18-24,PNB,Savings,P2M,UPI,PhonePe,9058,Bills,Yes,NULL,Failed,Desktop,4G
+T0983,2025-01-30,Bihar,Jaipur,U1982,Female,25-34,SBI,Savings,P2M,UPI,PhonePe,5551,Food,Yes,PMJDY,Failed,Desktop,3G
+T0984,2025-03-21,Gujarat,Ahmedabad,U1983,Male,25-34,ICICI,Savings,P2M,UPI,PhonePe,3913,Bills,No,NULL,Failed,Desktop,Broadband
+T0985,2025-03-16,Rajasthan,Mumbai,U1984,Male,35-44,SBI,Savings,P2P,UPI,BHIM,895,Shopping,Yes,Subsidy,Failed,Desktop,4G
+T0986,2025-01-29,Gujarat,Kolkata,U1985,Male,18-24,ICICI,Current,BillPay,UPI,GPay,6159,Shopping,No,NULL,Failed,Mobile,3G
+T0987,2025-01-01,Maharashtra,Mumbai,U1986,Female,18-24,SBI,Current,P2M,UPI,BHIM,8015,Transfer,No,PMJDY,Success,Mobile,Broadband
+T0988,2025-02-13,West Bengal,Jaipur,U1987,Female,45+,PNB,Savings,P2P,UPI,BHIM,8659,Bills,Yes,NULL,Failed,Mobile,5G
+T0989,2025-01-31,West Bengal,Bangalore,U1988,Male,35-44,ICICI,Current,P2P,UPI,PhonePe,6694,Bills,No,Subsidy,Success,Desktop,5G
+T0990,2025-01-10,Tamil Nadu,Delhi,U1989,Female,35-44,SBI,JanDhan,P2P,UPI,GPay,9395,Bills,Yes,PMJDY,Failed,Mobile,3G
+T0991,2025-01-14,Rajasthan,Bangalore,U1990,Female,25-34,ICICI,Savings,P2M,UPI,Paytm,9461,Electronics,No,Subsidy,Success,Mobile,3G
+T0992,2025-02-01,Gujarat,Chennai,U1991,Male,35-44,Axis,Current,BillPay,UPI,BHIM,388,Shopping,No,PMJDY,Success,Mobile,4G
+T0993,2025-01-19,Rajasthan,Delhi,U1992,Female,45+,Axis,JanDhan,BillPay,UPI,PhonePe,289,Shopping,No,PMJDY,Success,Mobile,Broadband
+T0994,2025-03-07,Rajasthan,Chennai,U1993,Female,25-34,HDFC,Savings,P2M,UPI,BHIM,7392,Electronics,Yes,Subsidy,Success,Desktop,3G
+T0995,2025-02-28,Bihar,Chennai,U1994,Male,25-34,ICICI,Current,P2M,UPI,Paytm,8982,Shopping,Yes,NULL,Failed,Desktop,4G
+T0996,2025-02-13,Delhi,Mumbai,U1995,Female,25-34,ICICI,Current,P2M,UPI,BHIM,8300,Food,Yes,PMJDY,Failed,Desktop,5G
+T0997,2025-03-21,Maharashtra,Kolkata,U1996,Female,45+,PNB,Savings,BillPay,UPI,Paytm,5076,Shopping,Yes,PMJDY,Failed,Desktop,5G
+T0998,2025-01-04,Karnataka,Kolkata,U1997,Male,18-24,HDFC,Current,BillPay,UPI,PhonePe,7538,Bills,No,Subsidy,Success,Desktop,5G
+T0999,2025-03-28,Delhi,Bangalore,U1998,Male,45+,SBI,Savings,P2M,UPI,BHIM,7618,Food,Yes,NULL,Failed,Mobile,3G
+T1000,2025-01-16,Delhi,Patna,U1999,Male,35-44,Axis,Current,P2P,UPI,Paytm,6239,Shopping,Yes,NULL,Failed,Desktop,3G
